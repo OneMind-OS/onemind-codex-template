@@ -1,21 +1,140 @@
-# Codex Live
+---
+title: "One Mind Codex — Live"
+type: doctrine
+status: active
+created: 2026-03-19
+owner: zeus
+tags: [type/doctrine, domain/codex]
+ai_summary: "Public living codex vault — forkable example of the One Mind CODEX framework by Zeus Delacruz"
+---
 
-Public examples, templates, and live demos from the **One Mind** ecosystem.
+# One Mind Codex — Live
 
-## What's Here
+> **"A solar-punk cognitive operating system for humans + AI."**
+>
+> By Zeus Delacruz | Public vault | Status: LIVING — updated regularly
 
-This repository contains open-source examples that demonstrate patterns and integrations from the One Mind Codex — our internal knowledge vault and operational playbook.
+---
 
-### Categories
+## What This Is
 
-- **agent-examples/** — Agent configuration templates and skill examples
-- **integrations/** — Platform integration patterns (NATS, n8n, Telegram, etc.)
-- **templates/** — Starter templates for building on the One Mind stack
+This is my **public codex** — a real, working knowledge vault built on the One Mind framework. It's the same system I use privately, shared openly so my community can see exactly how it works and fork it to build their own.
 
-## About One Mind
+Think of it as watching me work live. I update this as I build. You can use it as your starting point.
 
-One Mind OS is an AI-native life operating system — a personal infrastructure layer that orchestrates AI agents, automates workflows, and bridges every platform you use into a unified command surface.
+**This is not a tutorial. It's a living example.**
+
+---
+
+## The One Mind Framework
+
+One Mind is an AI-native life operating system. Unlike GTD, PARA, or Second Brain — which were built for humans working alone — One Mind is designed for **humans and AI working together**. The system has one core method:
+
+```text
+C → O → D → E → X
+Capture → Organize → Direct → Execute → eXamine
+```
+
+The vault is divided into 4 quadrants covering every domain of life:
+
+```text
+00-24  UI  — Unified Intelligence   (AI, tech, infrastructure)
+25-49  HP  — Holistic Performance   (health, money, identity, skills)
+50-74  LE  — Legacy Evolution       (family, home, estate)
+75-99  GE  — Generational Entrepreneurship (business, ventures, wealth)
+```
+
+---
+
+## How to Use This
+
+### Option 1 — Fork and Build Your Own
+
+1. Fork this repo
+2. Open the folder in [Obsidian](https://obsidian.md) (free)
+3. Read `_codex/INTERFACE.md` — it explains everything to you (and your AI)
+4. Start with the quadrant that matters most to you right now
+5. Replace my examples with your own life
+
+### Option 2 — Just Watch and Learn
+
+Browse the domains. Read how I structure my notes, make decisions, run reviews. Take what's useful.
+
+### Option 3 — Use the Templates
+
+Every note type has a template in `_codex/templates/`. Copy the template, fill it in, save it in the right domain folder. That's the whole system.
+
+---
+
+## Folder Structure
+
+```text
+codex-live/
+├── _codex/                          ← System infrastructure (start here)
+│   ├── INTERFACE.md                 ← Universal agent/human entry point
+│   ├── CONVENTIONS.md               ← Naming, frontmatter, tagging rules
+│   ├── templates/                   ← Note type templates
+│   ├── skills/                      ← How-to procedures for agents
+│   ├── system/                      ← Always-loaded context (pinned)
+│   └── profiles/                    ← Review cadence profiles
+│
+├── 00-24 UI (Unified Intelligence)/ ← AI, tech, infrastructure
+│   ├── 00 Framework (Doctrine)/     ← Core principles
+│   ├── 01 Command (Dashboard)/      ← Navigation + dashboards
+│   ├── 02 Agents (AI & Tools)/      ← Agent configs, memory
+│   ├── 03 Protocols (SOPs)/         ← Standard procedures
+│   ├── 06 Inbox (Queue)/            ← Unsorted capture
+│   ├── 08 Infrastructure/           ← Servers, APIs, services
+│   ├── 09 Automation/               ← Workflows
+│   └── 10 Development/              ← Code, testing
+│
+├── 25-49 HP (Holistic Performance)/ ← Self optimization
+│   ├── 25 Identity/                 ← Who you are, values, purpose
+│   ├── 27 Body/                     ← Health, fitness, nutrition
+│   ├── 28 Mastery/                  ← Skills, career, learning
+│   ├── 29 Life Systems/             ← Routines, daily ops
+│   ├── 30 Finance/                  ← Money, investments
+│   ├── 32 Relationships/            ← Social, network
+│   └── 33 Joy/                      ← Fun, travel, recreation
+│
+├── 50-74 LE (Legacy Evolution)/     ← Family + home
+│   ├── 50 Home/                     ← Property, environment
+│   ├── 51 Partnership/              ← Relationships
+│   ├── 52 Children/                 ← Parenting
+│   ├── 55 Health/                   ← Family wellness
+│   └── 56 Wealth/                   ← Estate, assets
+│
+├── 75-99 GE (Generational Entrepreneurship)/ ← Business
+│   ├── 75 Personal Brand/           ← Your public identity
+│   ├── 76 Education/                ← Teaching, courses
+│   ├── 80 Treasury/                 ← Business finance
+│   ├── 81 Strategy/                 ← Planning, analytics
+│   └── 84 Ventures/                 ← New ideas, innovation
+│
+├── assets/                          ← Images and media
+├── CODEX-FRAMEWORK.md               ← The method (full doctrine)
+└── ONEMIND-CODEX.md                 ← Master overview document
+```
+
+---
+
+## Start Here
+
+If you're new: **read [`_codex/INTERFACE.md`](_codex/INTERFACE.md) first.**
+
+If you're an AI agent assigned to this vault: same answer — `_codex/INTERFACE.md` tells you everything.
+
+---
+
+## Community
+
+This vault is part of the **One Mind** community. If you're here, you're building something real.
+
+- Learn the framework: [onemindcodex.com](https://onemindcodex.com)
+- Follow the build: [@zeusdelacruz](https://zeusdelacruz.com)
+
+---
 
 ## License
 
-MIT
+MIT — fork it, remix it, build on it. Credit appreciated, not required.
