@@ -38,7 +38,7 @@ Take the One Mind framework from personal system to public product. Share the co
 
 ## Resources
 
-- Codex-live repo: `One-Mind-OS/onemind-codex-live`
+- Codex template repo: `OneMind-OS/onemind-codex-template`
 - Framework doc: `CODEX-FRAMEWORK.md`
 - Master doc: `ONEMIND-CODEX.md`
 

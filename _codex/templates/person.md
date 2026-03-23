@@ -1,11 +1,11 @@
 ---
-id: person-{slug}
+id: "person-{slug}"
 title: "{Full Name}"
 type: person
 status: active
-created: {YYYY-MM-DD}
-owner: {your-name}
-tags: [type/person, relationship/{family|friend|colleague|partner|mentor|community}]
+created: "{YYYY-MM-DD}"
+owner: "{your-name}"
+tags: [type/person, "relationship/{family|friend|colleague|partner|mentor|community}"]
 related: []
 ai_summary: "{Full Name} — {role/relationship}, {one key fact}"
 ---

@@ -1,11 +1,11 @@
 ---
-id: {domain-code}-{YYYYMMDD}-{slug}
+id: "{domain-code}-{YYYYMMDD}-{slug}"
 title: "SOP: {Process Name}"
 type: sop
 status: active
-created: {YYYY-MM-DD}
-owner: {your-name}
-tags: [type/sop, domain/{quadrant}]
+created: "{YYYY-MM-DD}"
+owner: "{your-name}"
+tags: [type/sop, "domain/{quadrant}"]
 related: []
 ai_summary: "SOP: {what process this describes in ≤10 words}"
 ---

@@ -1,10 +1,10 @@
 ---
-id: {domain-code}-{YYYYMMDD}-daily
+id: "{domain-code}-{YYYYMMDD}-daily"
 title: "Daily Log — {YYYY-MM-DD}"
 type: log
 status: active
-created: {YYYY-MM-DD}
-owner: {your-name}
+created: "{YYYY-MM-DD}"
+owner: "{your-name}"
 tags: [type/log, cadence/daily]
 ai_summary: "Daily log for {YYYY-MM-DD}"
 ---

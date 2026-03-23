@@ -1,11 +1,11 @@
 ---
-id: {cadence}-review-{YYYYMMDD}
+id: "{cadence}-review-{YYYYMMDD}"
 title: "{Weekly|Monthly|Quarterly} Review — {date range}"
 type: review
 status: active
-created: {YYYY-MM-DD}
-owner: {your-name}
-tags: [type/review, cadence/{weekly|monthly|quarterly}]
+created: "{YYYY-MM-DD}"
+owner: "{your-name}"
+tags: [type/review, "cadence/{weekly|monthly|quarterly}"]
 ai_summary: "Review for {period} — wins, lessons, priorities"
 ---
 

@@ -1,11 +1,11 @@
 ---
-id: {domain-code}-{YYYYMMDD}-{slug}
+id: "{domain-code}-{YYYYMMDD}-{slug}"
 title: "Decision: {What was decided}"
 type: decision
 status: active
-created: {YYYY-MM-DD}
-decided_by: {your-name}
-tags: [type/decision, domain/{quadrant}]
+created: "{YYYY-MM-DD}"
+decided_by: "{your-name}"
+tags: [type/decision, "domain/{quadrant}"]
 related: []
 ai_summary: "Decision: {what was chosen and why, in ≤15 words}"
 ---

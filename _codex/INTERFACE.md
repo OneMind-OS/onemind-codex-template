@@ -4,7 +4,7 @@ title: "Codex Interface — Universal Entry Point"
 type: system
 status: active
 created: 2026-01-01
-owner: {your-name}
+owner: "{your-name}"
 tags: [type/system, domain/codex]
 ai_summary: "Entry point for any agent or human navigating this vault — read first"
 ---

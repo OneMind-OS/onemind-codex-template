@@ -3,6 +3,7 @@ title: "One Mind Codex — Live"
 type: doctrine
 status: active
 created: 2026-03-19
+modified: 2026-03-23
 owner: zeus
 tags: [type/doctrine, domain/codex]
 ai_summary: "Public living codex vault — forkable example of the One Mind CODEX framework by Zeus Delacruz"
@@ -48,16 +49,16 @@ The vault is divided into 4 quadrants covering every domain of life:
 
 ## How to Use This
 
-### Option 1 — Use This Template
+### Option 1 — Get Your Own Copy
 
-1. Click the green **"Use this template"** button above → **"Create a new repository"**
-2. Clone your new repo to your computer
-3. Open the folder in [Obsidian](https://obsidian.md) (free)
-4. Read `_codex/INTERFACE.md` — it tells you (and your AI) everything
+1. Go to the **[OneMind Codex Template](https://github.com/OneMind-OS/onemind-codex-template)** on GitHub
+2. Click the green **"Use this template"** button → **"Create a new repository"**
+3. Open your new repo folder in [Obsidian](https://obsidian.md) (free)
+4. Read `_codex/INTERFACE.md` — it explains everything to you (and your AI)
 5. Start with the quadrant that matters most to you right now
 6. Replace my examples with your own life
 
-> **This vault stays in sync with the [live site](https://onemind-codex-garden.pages.dev).** What you see online is what you get here.
+> The template vault always matches what you see on this site — it syncs automatically.
 
 ### Option 2 — Just Watch and Learn
 

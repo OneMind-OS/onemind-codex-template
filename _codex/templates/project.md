@@ -1,11 +1,11 @@
 ---
-id: {domain-code}-{YYYYMMDD}-{slug}
+id: "{domain-code}-{YYYYMMDD}-{slug}"
 title: "{Project Name}"
 type: project
 status: active
-created: {YYYY-MM-DD}
-owner: {your-name}
-tags: [type/project, domain/{quadrant}]
+created: "{YYYY-MM-DD}"
+owner: "{your-name}"
+tags: [type/project, "domain/{quadrant}"]
 related: []
 ai_summary: "Project: {one-line goal and current status}"
 ---
