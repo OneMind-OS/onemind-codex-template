@@ -94,29 +94,41 @@ codex-live/
 │   ├── 06 Inbox (Queue)/            ← Unsorted capture
 │   ├── 08 Infrastructure/           ← Servers, APIs, services
 │   ├── 09 Automation/               ← Workflows
-│   └── 10 Development/              ← Code, testing
+│   ├── 10 Development/              ← Code, testing
+│   ├── 11 Security/                 ← Cyber hygiene, access control
+│   └── 12 Research/                 ← R&D, evaluations
 │
 ├── 25-49 HP (Holistic Performance)/ ← Self optimization
 │   ├── 25 Identity/                 ← Who you are, values, purpose
+│   ├── 26 Intelligence/             ← Education, learning
 │   ├── 27 Body/                     ← Health, fitness, nutrition
 │   ├── 28 Mastery/                  ← Skills, career, learning
 │   ├── 29 Life Systems/             ← Routines, daily ops
 │   ├── 30 Finance/                  ← Money, investments
+│   ├── 31 Sovereignty/              ← Legal identity, documents
 │   ├── 32 Relationships/            ← Social, network
-│   └── 33 Joy/                      ← Fun, travel, recreation
+│   ├── 33 Joy/                      ← Fun, travel, recreation
+│   └── 34 Spirituality/             ← Meaning, inner work
 │
 ├── 50-74 LE (Legacy Evolution)/     ← Family + home
 │   ├── 50 Home/                     ← Property, environment
-│   ├── 51 Partnership/              ← Relationships
-│   ├── 52 Children/                 ← Parenting
+│   ├── 51 Marriage/                 ← Partnership, communication
+│   ├── 52 Children/                 ← Parenting, education
+│   ├── 53 Parents/                  ← Elder care, support
+│   ├── 54 Heritage/                 ← History, traditions
 │   ├── 55 Health/                   ← Family wellness
-│   └── 56 Wealth/                   ← Estate, assets
+│   ├── 56 Wealth/                   ← Estate, assets
+│   ├── 57 Legal/                    ← Documents, wills, trusts
+│   └── 58 Community/                ← Extended network
 │
 ├── 75-99 GE (Generational Entrepreneurship)/ ← Business
 │   ├── 75 Personal Brand/           ← Your public identity
 │   ├── 76 Education/                ← Teaching, courses
+│   ├── 77 IP & Platforms/           ← Frameworks, creative works
+│   ├── 79 Technology/               ← Tech stack, products
 │   ├── 80 Treasury/                 ← Business finance
 │   ├── 81 Strategy/                 ← Planning, analytics
+│   ├── 83 Partnerships/             ← Collaborators, vendors
 │   └── 84 Ventures/                 ← New ideas, innovation
 │
 ├── assets/                          ← Images and media

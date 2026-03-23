@@ -41,7 +41,6 @@ LE = The home base that sustains the mission
 | 75 | **Personal Brand** | Public identity, content, speaking, online presence |
 | 76 | **Education** | Courses, communities, teaching, knowledge products |
 | 77 | **Intellectual Property** | Ideas, frameworks, trademarks, creative works |
-| 78 | **Credit & Access** | Credit profiles, banking relationships, funding access |
 | 79 | **Technology** | Tech stack, software products, technical infrastructure |
 | 80 | **Treasury** | Business finance, accounts, cash flow, bookkeeping |
 | 81 | **Strategy** | Analytics, competitive analysis, planning |

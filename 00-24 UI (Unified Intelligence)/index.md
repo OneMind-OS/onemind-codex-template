@@ -44,8 +44,6 @@ Without a strong UI quadrant, the other three quadrants are fragmented. UI is wh
 | 01 | **Command (Dashboard)** | Navigation, dashboards, weekly/daily command centers |
 | 02 | **Agents (AI & Tools)** | AI agent configs, memory setups, tool inventories |
 | 03 | **Protocols (SOPs)** | Standard operating procedures for recurring processes |
-| 04 | **Resources** | Reference materials, API docs, specs |
-| 05 | **Environments** | Devices, workspaces, location-specific setups |
 | 06 | **Inbox (Queue)** | All unsorted captures — process and route regularly |
 | 08 | **Infrastructure** | Servers, DNS, services, networking |
 | 09 | **Automation** | n8n workflows, scheduled jobs, triggers |
