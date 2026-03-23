@@ -9,8 +9,8 @@ tags: [type/doctrine, domain/codex]
 ai_summary: "Public living codex vault — forkable example of the One Mind CODEX framework by Zeus Delacruz"
 ---
 
-<div class="hero-logo" style="text-align: center; margin: 2rem 0 1rem;">
-  <img src="assets/onemind-logo.png" alt="One Mind" style="max-width: 220px; height: auto;" />
+<div class="hero-logo">
+  <img src="assets/onemind-logo.png" alt="One Mind" />
 </div>
 
 # One Mind Codex
