@@ -1,5 +1,5 @@
 ---
-title: "One Mind Codex — Live"
+title: "One Mind Codex"
 type: doctrine
 status: active
 created: 2026-03-19
@@ -9,11 +9,11 @@ tags: [type/doctrine, domain/codex]
 ai_summary: "Public living codex vault — forkable example of the One Mind CODEX framework by Zeus Delacruz"
 ---
 
-# One Mind Codex — Live
+# One Mind Codex
 
-> **"A solar-punk cognitive operating system for humans + AI."**
+> **The AI-native operating system for your life. Built for humans + AI.**
 >
-> By Zeus Delacruz | Public vault | Status: LIVING — updated regularly
+> By Zeus Delacruz | Public vault | Status: ACTIVE — updated regularly
 
 ---
 
@@ -21,9 +21,9 @@ ai_summary: "Public living codex vault — forkable example of the One Mind CODE
 
 This is my **public codex** — a real, working knowledge vault built on the One Mind framework. It's the same system I use privately, shared openly so my community can see exactly how it works and fork it to build their own.
 
-Think of it as watching me work live. I update this as I build. You can use it as your starting point.
+Think of it as watching me build in real time. I update this as I work. You can use it as your starting point.
 
-**This is not a tutorial. It's a living example.**
+**This is not a tutorial. It's a living system.**
 
 ---
 
