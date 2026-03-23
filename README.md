@@ -48,13 +48,16 @@ The vault is divided into 4 quadrants covering every domain of life:
 
 ## How to Use This
 
-### Option 1 — Fork and Build Your Own
+### Option 1 — Use This Template
 
-1. Fork this repo
-2. Open the folder in [Obsidian](https://obsidian.md) (free)
-3. Read `_codex/INTERFACE.md` — it explains everything to you (and your AI)
-4. Start with the quadrant that matters most to you right now
-5. Replace my examples with your own life
+1. Click the green **"Use this template"** button above → **"Create a new repository"**
+2. Clone your new repo to your computer
+3. Open the folder in [Obsidian](https://obsidian.md) (free)
+4. Read `_codex/INTERFACE.md` — it tells you (and your AI) everything
+5. Start with the quadrant that matters most to you right now
+6. Replace my examples with your own life
+
+> **This vault stays in sync with the [live site](https://onemind-codex-garden.pages.dev).** What you see online is what you get here.
 
 ### Option 2 — Just Watch and Learn
 
