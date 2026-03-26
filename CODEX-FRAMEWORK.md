@@ -201,7 +201,7 @@ D — DIRECT:
 | 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
 | 50–74 | **LE** — Legacy Evolution | Relationships, community, home |
-| 75–99 | **GE** — Generational Enterprise | Career, ventures, impact, wealth |
+| 75–99 | **GE** — Generational Endeavor | Career, ventures, impact, wealth |
 
 ### The 100-Domain System
 
@@ -1169,7 +1169,7 @@ One Mind OS is NOT four equal boxes. It's **three life domains running on one op
 │              The operating layer that runs everything             │
 ├─────────────────────┬─────────────────────┬──────────────────────┤
 │  HP (25–49)         │  LE (50–74)         │  GE (75–99)          │
-│  Your Self          │  Your Foundation     │  Your Enterprise      │
+│  Your Self          │  Your Foundation     │  Your Endeavor        │
 │  (health, mind, $)  │  (relationships,     │  (career, ventures,  │
 │                     │   community, home)   │   brand, impact)     │
 └─────────────────────┴─────────────────────┴──────────────────────┘
@@ -1178,7 +1178,7 @@ One Mind OS is NOT four equal boxes. It's **three life domains running on one op
 **SO is the platform. HP, LE, GE are the applications.** Just like macOS isn't "another app" — it's the operating system that runs all the apps — SO isn't another life domain. It's the layer that runs your life domains.
 
 - SO holds your agents, tools, protocols, automations, and the framework itself
-- HP, LE, GE hold your actual life — your self, your foundation, your enterprise
+- HP, LE, GE hold your actual life — your self, your foundation, your endeavor
 - Every capture flows THROUGH SO's inbox before routing to a domain
 - Every agent LIVES in SO and SERVES HP, LE, and GE
 

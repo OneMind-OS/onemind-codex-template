@@ -141,11 +141,11 @@ Not everyone has a family — but everyone has a foundation. For some that's mar
 
 *Contains: Home, relationships (marriage, partnerships), children, parents, heritage, community, environment, estate, legal.*
 
-### 👑 GE — Generational Enterprise (75–99) — Your Enterprise
+### 👑 GE — Generational Endeavor (75–99) — Your Endeavor
 
 **How you create value and grow your impact.** Career, ventures, brand, wealth, education, IP.
 
-"Enterprise" means any bold, purposeful undertaking — a teacher's career is an enterprise, an artist's body of work is an enterprise, an entrepreneur's business is an enterprise. GE covers your career, your craft, your brand, your income, and everything you build that creates value in the world.
+An endeavor is any purposeful undertaking you pour your energy into — a teacher's career is an endeavor, an artist's body of work is an endeavor, an entrepreneur's business is an endeavor. GE covers your career, your craft, your brand, your income, and everything you build that creates value in the world.
 
 *Contains: Personal brand, education, IP & platforms, technology, treasury, strategy, career, partnerships, ventures.*
 
@@ -176,7 +176,7 @@ your-codex/
 ├── 00-24 SO/                   ← 🧠 Sovereign Operations
 ├── 25-49 HP/                   ← 💪 Holistic Performance
 ├── 50-74 LE/                   ← 🏡 Legacy Evolution
-├── 75-99 GE/                   ← 👑 Generational Enterprise
+├── 75-99 GE/                   ← 👑 Generational Endeavor
 ├── ONEMIND-CODEX.md            ← This file (master document)
 ├── CODEX-FRAMEWORK.md          ← Deep-dive on the CODEX method
 └── AGENTS.md                   ← Instructions for AI agents

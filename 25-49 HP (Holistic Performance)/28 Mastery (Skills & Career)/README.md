@@ -39,7 +39,7 @@ Your professional development, career strategy, and the deliberate cultivation o
 ├── portfolio/                    ← Case studies, results, work samples
 ├── reputation/
 │   └── public-presence.md        ← Bio, positioning, where you show up
-└── mentors.md                    ← People actively shaping your enterprise
+└── mentors.md                    ← People actively shaping your endeavor
 ```
 
 ---

@@ -17,7 +17,7 @@ ai_summary: "Strategy domain — business strategy, OKRs, competitive intelligen
 
 ## What Lives Here
 
-The thinking layer of the enterprise — market intelligence, competitive analysis, OKRs, strategic plans, and the decision frameworks that guide where you invest attention and capital.
+The thinking layer of the endeavor — market intelligence, competitive analysis, OKRs, strategic plans, and the decision frameworks that guide where you invest attention and capital.
 
 - **Strategic plan** — annual/3-year business vision, goals, and roadmap
 - **OKRs** — objectives and key results by quarter

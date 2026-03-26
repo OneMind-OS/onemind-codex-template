@@ -17,7 +17,7 @@ ai_summary: "Ventures domain — new business ideas, experiments, early-stage pr
 
 ## What Lives Here
 
-The frontier of your enterprise — new ideas being evaluated, early-stage experiments, and projects in incubation before they graduate to their own domain.
+The frontier of your endeavor — new ideas being evaluated, early-stage experiments, and projects in incubation before they graduate to their own domain.
 
 - **Idea pipeline** — business ideas captured, rated, and awaiting evaluation
 - **Active experiments** — current bets with hypothesis, timeline, and success criteria
@@ -46,7 +46,7 @@ The frontier of your enterprise — new ideas being evaluated, early-stage exper
 
 ## Zeus's Note
 
-This is the most chaotic folder in the enterprise codex. It's supposed to be. Innovation is messy. I capture every business idea here — even dumb ones — because filtering too early kills pattern recognition.
+This is the most chaotic folder in the endeavor codex. It's supposed to be. Innovation is messy. I capture every business idea here — even dumb ones — because filtering too early kills pattern recognition.
 
 The kill file is the most underrated document in this folder. Every idea I've killed taught me something. Some of them I killed too early. Some I should have killed sooner. Those lessons are in the kill file, and I read it before evaluating anything new.
 

@@ -6,7 +6,7 @@ status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/ge-79, type/index, status/active]
-ai_summary: "Business technology domain — tech stack decisions, tools, subscriptions, and infrastructure for the enterprise"
+ai_summary: "Business technology domain — tech stack decisions, tools, subscriptions, and infrastructure for the endeavor"
 ---
 
 # 79 — Technology (Tech Stack)
@@ -17,7 +17,7 @@ ai_summary: "Business technology domain — tech stack decisions, tools, subscri
 
 ## What Lives Here
 
-The technology infrastructure for your business operations — the tools, platforms, and systems that run the enterprise day to day.
+The technology infrastructure for your business operations — the tools, platforms, and systems that run the endeavor day to day.
 
 - **Tech stack map** — complete view of every tool in use across the business
 - **Decisions log** — why you chose X over Y, what changed your mind
@@ -48,4 +48,4 @@ Most entrepreneurs don't audit their tech stack until the bill arrives. I do a q
 
 The decisions log sounds like overhead but it pays for itself fast. When a team member asks "why are we on X instead of Y?", I have an answer. When a vendor raises prices, I know exactly why we chose them and whether the reason still applies.
 
-My business tech stack is separate from my personal tech stack (which lives in SO domain 08). This folder is specifically for the enterprise — the tools that run the business operations, not my personal command center.
+My business tech stack is separate from my personal tech stack (which lives in SO domain 08). This folder is specifically for the endeavor — the tools that run the business operations, not my personal command center.

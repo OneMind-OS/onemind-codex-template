@@ -17,7 +17,7 @@ ai_summary: "Partnerships domain — business relationships, joint ventures, aff
 
 ## What Lives Here
 
-Business relationships that drive growth — partners, advisors, affiliates, distribution relationships, and the strategy for building your enterprise network deliberately.
+Business relationships that drive growth — partners, advisors, affiliates, distribution relationships, and the strategy for building your endeavor network deliberately.
 
 - **Key partners** — active partnerships with terms, value exchange, and status
 - **Advisors** — who advises the business, their domain, compensation, and involvement

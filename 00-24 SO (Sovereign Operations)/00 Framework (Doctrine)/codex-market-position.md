@@ -72,7 +72,7 @@ Skills are recipes in markdown. Not Notion databases. Not Obsidian plugins. Not 
 Three life domains + one operating layer covering your ENTIRE existence:
 - **HP (Holistic Performance):** Health, identity, finance, skills, relationships
 - **LE (Legacy Evolution):** Relationships, community, home, environment
-- **GE (Generational Enterprise):** Career, ventures, impact, wealth
+- **GE (Generational Endeavor):** Career, ventures, impact, wealth
 - **SO (Sovereign Operations):** The coordination layer — AI, infrastructure, automation
 
 GTD is task-scope. PARA is file-scope. CODEX is life-scope.

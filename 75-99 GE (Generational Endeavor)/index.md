@@ -1,25 +1,25 @@
 ---
 id: ge-00-20260101000000
-title: "GE — Generational Enterprise"
+title: "GE — Generational Endeavor"
 type: index
 status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/ge, type/index, status/active]
-ai_summary: "Domain index for Generational Enterprise — career, ventures, brand, wealth building, impact"
+ai_summary: "Domain index for Generational Endeavor — career, ventures, brand, wealth building, impact"
 ---
 
-# GE — Generational Enterprise (75–99)
+# GE — Generational Endeavor (75–99)
 
-> *Grow your enterprise. Build something that compounds.*
+> *Pursue your endeavor. Build something that compounds.*
 
 ---
 
 ## What This Domain Is
 
-**Generational Enterprise** is where you create value and grow your impact in the world. Whether you're climbing a career ladder, building a business, creating content, or developing expertise — this is where your professional and financial life lives.
+**Generational Endeavor** is where you create value and grow your impact in the world. Whether you're climbing a career ladder, building a business, creating content, or developing expertise — this is where your professional and financial life lives.
 
-"Enterprise" means any bold, purposeful undertaking. A teacher's career is an enterprise. An artist's body of work is an enterprise. An entrepreneur's business is an enterprise. Your enterprise is whatever you're building that creates value.
+An endeavor is any purposeful undertaking you pour your energy into. A teacher's career is an endeavor. An artist's body of work is an endeavor. An entrepreneur's business is an endeavor. Your endeavor is whatever you're building that creates value.
 
 The word "generational" is intentional. This isn't about quick wins. It's about building something that compounds — across years, decades, and beyond.
 
@@ -28,7 +28,7 @@ The word "generational" is intentional. This isn't about quick wins. It's about 
 ## The Analogy
 
 ```text
-GE = Your growth engine (career, impact, wealth)
+GE = Your endeavor (career, impact, wealth)
 SO = The operating system that runs everything
 HP = The person powering the engine
 LE = The world that sustains and motivates you

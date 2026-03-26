@@ -1,6 +1,6 @@
 ---
 id: ge-75-readme
-title: "75 — Personal Brand (Zeus Delacruz Enterprise)"
+title: "75 — Personal Brand (Zeus Delacruz Endeavor)"
 type: index
 status: active
 created: 2026-01-01
@@ -9,7 +9,7 @@ tags: [domain/ge-75, type/index, status/active]
 ai_summary: "Personal brand domain — public identity, content strategy, audience, positioning, and brand assets"
 ---
 
-# 75 — Personal Brand (Zeus Delacruz Enterprise)
+# 75 — Personal Brand (Zeus Delacruz Endeavor)
 
 > *Your brand is the story people tell about you when you're not in the room.*
 

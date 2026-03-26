@@ -24,7 +24,7 @@ ONE MIND                          ← Philosophy / Brand
        │    │    └─ runs ──────────────────────────────────┐
        │    ├─ HP  (25–49)         ← Holistic Performance  │ life
        │    ├─ LE  (50–74)         ← Legacy Evolution      │ domains
-       │    └─ GE  (75–99)         ← Generational Entrprs. │
+       │    └─ GE  (75–99)         ← Generational Endeavor  │
        ├─ Community                ← People using the system
        └─ Products                 ← Templates, courses, tools
 ```
@@ -129,16 +129,16 @@ ONE MIND                          ← Philosophy / Brand
 | **Key domains** | 50 Home, 51 Marriage, 52 Children, 53 Parents, 54 Heritage, 56 Wealth (Estate), 58 Community |
 | **Examples** | "My community strategy is in LE/58 Community." / "Home projects go in LE/50 Home." |
 
-### GE — Generational Enterprise (Domains 75–99)
+### GE — Generational Endeavor (Domains 75–99)
 
 | | |
 |---|---|
 | **What it is** | How you create value and grow your impact — career, ventures, brand, wealth, education, IP. |
 | **What it's NOT** | Personal finance (that's HP/30). Family estate (that's LE/56). |
-| **Think of it as** | Your enterprise — any bold, purposeful undertaking. A career, a business, a body of work. Whatever you're building that creates value. |
+| **Think of it as** | Your endeavor — any purposeful undertaking you pour your energy into. A career, a business, a body of work. Whatever you're building that creates value. |
 | **Who uses it** | Employee → career growth, salary, expertise. Entrepreneur → ventures, brand, products. Creator → audience, IP, content. Everyone → professional development, income. |
 | **Key domains** | 75 Personal Brand, 76 Education, 77 IP & Platforms, 79 Technology, 81 Strategy, 84 Ventures |
-| **Examples** | "Career development goes in GE/28... no, GE/81 Strategy." / "Course content goes in GE/76 Education." |
+| **Examples** | "Career development goes in GE/81 Strategy." / "Course content goes in GE/76 Education." |
 
 ---
 
@@ -205,8 +205,8 @@ CODEX             = The method        (C.O.D.E.× = Capture, Organize, Direct, E
 CODEX             = The vault         (your Markdown file system)
 SO                = Operating layer   (agents, tools, infrastructure — domains 00-24)
 HP                = Your self          (health, mind, skills, money — domains 25-49)
-LE                = Your world         (relationships, community, home — domains 50-74)
-GE                = Your growth        (career, ventures, brand, impact — domains 75-99)
+LE                = Your foundation    (relationships, community, home — domains 50-74)
+GE                = Your endeavor      (career, ventures, brand, impact — domains 75-99)
 _codex/           = Intelligence      (templates, skills, conventions — public)
 _system/          = Operations        (scripts, configs, keys — private)
 ```

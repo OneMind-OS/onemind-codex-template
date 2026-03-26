@@ -6,7 +6,7 @@ status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/ge-80, type/index, status/active]
-ai_summary: "Business finance domain — enterprise revenue, P&L, cash flow, funding, and financial strategy"
+ai_summary: "Business finance domain — endeavor revenue, P&L, cash flow, funding, and financial strategy"
 ---
 
 # 80 — Treasury (Business Finance)
@@ -17,7 +17,7 @@ ai_summary: "Business finance domain — enterprise revenue, P&L, cash flow, fun
 
 ## What Lives Here
 
-The enterprise's financial picture — not personal finance (domain 30) — but the business: revenue, expenses, profit, cash flow, funding, and financial strategy.
+The endeavor's financial picture — not personal finance (domain 30) — but the business: revenue, expenses, profit, cash flow, funding, and financial strategy.
 
 - **P&L snapshot** — revenue, expenses, and profit by month and entity
 - **Cash flow** — runway, burn rate, reserves
