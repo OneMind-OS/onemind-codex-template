@@ -39,9 +39,9 @@ You don't need to understand the whole system. You need 4 buckets and 30 minutes
 
 ```
 🧠  TECH & AI       Your tools, your systems
-💪  YOU              Your health, your money, your growth
-🏡  YOUR WORLD       Your relationships, community, home
-👑  YOUR GROWTH      Your career, ventures, brand, impact
+💪  YOU              Your health, your money, your enterprise
+🏡  YOUR FOUNDATION       Your relationships, community, home
+👑  YOUR ENTERPRISE      Your career, ventures, brand, impact
 ```
 
 Drop things in the right bucket. Sort your inbox Sunday. That's it for Day 1.
@@ -65,7 +65,7 @@ The vault is organized into 3 life domains + 1 operating layer covering every do
 00-24  SO  — Sovereign Operations   (AI, tech, infrastructure)
 25-49  HP  — Holistic Performance   (health, money, identity, skills)
 50-74  LE  — Legacy Evolution       (relationships, community, home)
-75-99  GE  — Generational Expansion (career, ventures, impact, wealth)
+75-99  GE  — Generational Enterprise (career, ventures, impact, wealth)
 ```
 
 ---
@@ -148,7 +148,7 @@ codex-live/
 │   ├── 57 Legal/                    ← Documents, wills, trusts
 │   └── 58 Community/                ← Extended network
 │
-├── 75-99 GE (Generational Expansion)/ ← Career + growth
+├── 75-99 GE (Generational Enterprise)/ ← Career + growth
 │   ├── 75 Personal Brand/           ← Your public identity
 │   ├── 76 Education/                ← Teaching, courses
 │   ├── 77 IP & Platforms/           ← Frameworks, creative works

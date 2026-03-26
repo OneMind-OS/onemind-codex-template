@@ -11,7 +11,7 @@ ai_summary: "Domain index for Legacy Evolution — relationships, community, hom
 
 # LE — Legacy Evolution (50–74)
 
-> *Build the world around you.*
+> *Build your foundation.*
 
 ---
 

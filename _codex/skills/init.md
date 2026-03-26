@@ -31,7 +31,7 @@ codex/
 ├── 00-24 SO (Sovereign Operations)/README.md
 ├── 25-49 HP (Holistic Performance)/README.md
 ├── 50-74 LE (Legacy Evolution)/README.md
-├── 75-99 GE (Generational Expansion)/README.md
+├── 75-99 GE (Generational Enterprise)/README.md
 ├── assets/
 └── CODEX-FRAMEWORK.md
 ```

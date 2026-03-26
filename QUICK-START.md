@@ -28,9 +28,9 @@ Everything in your life fits into four buckets:
 
 ```
 🧠  TECH & AI       Your tools, your systems, your digital infrastructure
-💪  YOU              Your health, your money, your growth, your identity
-🏡  YOUR WORLD       Your relationships, community, home
-👑  YOUR GROWTH      Your career, ventures, brand, impact
+💪  YOU              Your health, your money, your enterprise, your identity
+🏡  YOUR FOUNDATION       Your relationships, community, home
+👑  YOUR ENTERPRISE      Your career, ventures, brand, impact
 ```
 
 That's it. Four buckets. When something comes into your life, you ask **one question: which bucket?**
@@ -38,12 +38,12 @@ That's it. Four buckets. When something comes into your life, you ask **one ques
 | What happened | Which bucket? |
 |--------------|---------------|
 | Doctor's appointment | 💪 YOU |
-| New career idea | 👑 YOUR GROWTH |
-| Community event invite | 🏡 YOUR WORLD |
+| New career idea | 👑 YOUR ENTERPRISE |
+| Community event invite | 🏡 YOUR FOUNDATION |
 | Want to try a new AI tool | 🧠 TECH |
-| Need to fix the fence | 🏡 YOUR WORLD |
+| Need to fix the fence | 🏡 YOUR FOUNDATION |
 | Found a great article about investing | 💪 YOU (your money) |
-| Client wants a proposal | 👑 YOUR GROWTH |
+| Client wants a proposal | 👑 YOUR ENTERPRISE |
 
 **Quick exercise:** Think of 3 things on your mind right now. Put each in a bucket. Done? You just learned the One Mind organization system.
 
@@ -56,8 +56,8 @@ Open your vault in Obsidian (or any text editor). You'll see four folders:
 ```
 00-24 SO (Sovereign Operations)/    ← 🧠 TECH & AI
 25-49 HP (Holistic Performance)/    ← 💪 YOU
-50-74 LE (Legacy Evolution)/        ← 🏡 YOUR WORLD
-75-99 GE (Generational Expansion)/ ← 👑 YOUR GROWTH
+50-74 LE (Legacy Evolution)/        ← 🏡 YOUR FOUNDATION
+75-99 GE (Generational Enterprise)/ ← 👑 YOUR ENTERPRISE
 ```
 
 **Create 3 notes.** Pick the templates that match what's on your mind:
@@ -219,8 +219,8 @@ Your buckets will naturally split into specific areas:
 
 ```
 💪 YOU → Health, Finance, Identity
-👑 YOUR GROWTH → Career, Brand, Strategy, Ventures
-🏡 YOUR WORLD → Relationships, Community, Home
+👑 YOUR ENTERPRISE → Career, Brand, Strategy, Ventures
+🏡 YOUR FOUNDATION → Relationships, Community, Home
 🧠 TECH → Agents, Tools, Automation
 ```
 

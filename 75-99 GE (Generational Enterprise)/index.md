@@ -1,25 +1,25 @@
 ---
 id: ge-00-20260101000000
-title: "GE — Generational Expansion"
+title: "GE — Generational Enterprise"
 type: index
 status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/ge, type/index, status/active]
-ai_summary: "Domain index for Generational Expansion — career, ventures, brand, wealth building, impact"
+ai_summary: "Domain index for Generational Enterprise — career, ventures, brand, wealth building, impact"
 ---
 
-# GE — Generational Expansion (75–99)
+# GE — Generational Enterprise (75–99)
 
-> *Expand your impact. Build something that compounds.*
+> *Grow your enterprise. Build something that compounds.*
 
 ---
 
 ## What This Domain Is
 
-**Generational Expansion** is where you create value and grow your impact in the world. Whether you're climbing a career ladder, building a business, creating content, or developing expertise — this is where your professional and financial life lives.
+**Generational Enterprise** is where you create value and grow your impact in the world. Whether you're climbing a career ladder, building a business, creating content, or developing expertise — this is where your professional and financial life lives.
 
-Not everyone runs a business. But everyone creates value. A teacher expands through students. An engineer expands through systems. An entrepreneur expands through ventures. An artist expands through their body of work.
+"Enterprise" means any bold, purposeful undertaking. A teacher's career is an enterprise. An artist's body of work is an enterprise. An entrepreneur's business is an enterprise. Your enterprise is whatever you're building that creates value.
 
 The word "generational" is intentional. This isn't about quick wins. It's about building something that compounds — across years, decades, and beyond.
 

@@ -24,7 +24,7 @@ ONE MIND                          ← Philosophy / Brand
        │    │    └─ runs ──────────────────────────────────┐
        │    ├─ HP  (25–49)         ← Holistic Performance  │ life
        │    ├─ LE  (50–74)         ← Legacy Evolution      │ domains
-       │    └─ GE  (75–99)         ← Generational Entrep.  │
+       │    └─ GE  (75–99)         ← Generational Entrprs. │
        ├─ Community                ← People using the system
        └─ Products                 ← Templates, courses, tools
 ```
@@ -122,21 +122,21 @@ ONE MIND                          ← Philosophy / Brand
 
 | | |
 |---|---|
-| **What it is** | Everything beyond yourself — relationships, community, home, environment, and the world you build around you. |
+| **What it is** | Everything beyond yourself — relationships, community, home, environment. Your foundation. |
 | **What it's NOT** | Personal stuff (that's HP). Career/wealth stuff (that's GE). System stuff (that's SO). |
-| **Think of it as** | The world you're building around you. For some that's family. For others it's community, friendships, and creative legacy. |
+| **Think of it as** | Your foundation — the people, places, and relationships that hold everything up. For some that's family. For others it's community, friendships, and creative legacy. |
 | **Who uses it** | Parent → marriage, children, estate. Single person → home, community, friendships. Everyone → relationships, environment. |
 | **Key domains** | 50 Home, 51 Marriage, 52 Children, 53 Parents, 54 Heritage, 56 Wealth (Estate), 58 Community |
 | **Examples** | "My community strategy is in LE/58 Community." / "Home projects go in LE/50 Home." |
 
-### GE — Generational Expansion (Domains 75–99)
+### GE — Generational Enterprise (Domains 75–99)
 
 | | |
 |---|---|
-| **What it is** | How you create value and expand your impact — career, ventures, brand, wealth, education, IP. |
+| **What it is** | How you create value and grow your impact — career, ventures, brand, wealth, education, IP. |
 | **What it's NOT** | Personal finance (that's HP/30). Family estate (that's LE/56). |
-| **Think of it as** | Your growth engine. Whether you're climbing a career ladder, building a business, or creating art — this is where your value-creating work lives. |
-| **Who uses it** | Employee → career growth, salary, skills. Entrepreneur → ventures, brand, products. Creator → audience, IP, content. Everyone → professional development, income. |
+| **Think of it as** | Your enterprise — any bold, purposeful undertaking. A career, a business, a body of work. Whatever you're building that creates value. |
+| **Who uses it** | Employee → career growth, salary, expertise. Entrepreneur → ventures, brand, products. Creator → audience, IP, content. Everyone → professional development, income. |
 | **Key domains** | 75 Personal Brand, 76 Education, 77 IP & Platforms, 79 Technology, 81 Strategy, 84 Ventures |
 | **Examples** | "Career development goes in GE/28... no, GE/81 Strategy." / "Course content goes in GE/76 Education." |
 
