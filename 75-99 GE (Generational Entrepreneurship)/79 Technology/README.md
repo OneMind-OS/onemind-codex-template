@@ -48,4 +48,4 @@ Most entrepreneurs don't audit their tech stack until the bill arrives. I do a q
 
 The decisions log sounds like overhead but it pays for itself fast. When a team member asks "why are we on X instead of Y?", I have an answer. When a vendor raises prices, I know exactly why we chose them and whether the reason still applies.
 
-My business tech stack is separate from my personal tech stack (which lives in UI domain 08). This folder is specifically for the enterprise — the tools that run the business operations, not my personal command center.
+My business tech stack is separate from my personal tech stack (which lives in SO domain 08). This folder is specifically for the enterprise — the tools that run the business operations, not my personal command center.

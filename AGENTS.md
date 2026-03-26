@@ -16,11 +16,11 @@ ai_summary: "Operating instructions for AI agents working with this Codex vault"
 
 ## What This Is
 
-This is a **One Mind Codex vault** — a structured knowledge base built with the CODEX method (Capture → Organize → Direct → Execute → eXamine). It uses plain Markdown files with YAML frontmatter, organized into four quadrants:
+This is a **One Mind Codex vault** — a structured knowledge base built with the CODEX method (Capture → Organize → Direct → Execute → × Multiply). It uses plain Markdown files with YAML frontmatter, organized into three life domains and one operating layer:
 
 | ID Range | Quadrant | Domain |
 |----------|----------|--------|
-| 00–24 | **UI** — Unified Intelligence | Technology, AI, infrastructure |
+| 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
 | 50–74 | **LE** — Legacy Evolution | Family, home, estate |
 | 75–99 | **GE** — Generational Entrepreneurship | Business, ventures, wealth |
@@ -57,17 +57,17 @@ This approach lets you understand the vault's state from ~5 system files, scan 1
 - **Naming**: lowercase-hyphens for filenames (e.g., `weekly-review-2026-03-19.md`).
 - **Frontmatter**: every document must have YAML frontmatter with at minimum: `title`, `type`, `status`, `created`, `tags`, `ai_summary`.
 - **Templates**: always use templates from `_codex/templates/` when creating new documents. This ensures consistent structure and metadata.
-- **Document types**: `note`, `decision`, `sop`, `project`, `person`, `review`, `doctrine`, `reference`, `log`. Each has its own template.
+- **Document types**: See CODEX-FRAMEWORK.md for the full entity taxonomy. Core types: `goal`, `project`, `task`, `note`, `decision`, `sop`, `aop`, `metric`, `review`, `doctrine`, `reference`, `skill`, `tool`, `agent`, `human`, `robot`, `drone`. Each has its own template.
 
 ---
 
 ## Capture Rules
 
 - New content should use the appropriate template from `_codex/templates/`.
-- If the target domain is uncertain, place the document in `06 Inbox (Queue)/` within the most likely quadrant folder.
-- If even the quadrant is unclear, place it in the staging area and flag it for triage.
+- If the target domain is uncertain, place the document in `06 Inbox (Queue)/` within the most likely domain group.
+- If even the domain group is unclear, place it in the staging area and flag it for triage.
 - Always populate `ai_summary` in frontmatter — this is how other agents (and future you) discover documents without reading them fully.
-- Never create new top-level folders. The vault structure is fixed: `_codex/`, four quadrant folders, and root doctrine documents.
+- Never create new top-level folders. The vault structure is fixed: `_codex/`, the domain folders (SO, HP, LE, GE), and root doctrine documents.
 
 ---
 
@@ -81,10 +81,11 @@ This approach lets you understand the vault's state from ~5 system files, scan 1
 
 ---
 
-## Review Cadence
+## Review Cadence (× Multiply)
 
-- **Weekly review**: process inboxes, update active projects, review agent output, adjust priorities. Use profiles in `_codex/profiles/`.
-- **Monthly review**: quadrant health check, metric review, system maintenance, goal alignment.
+- **Weekly review**: process inboxes, update active projects, review agent output, adjust priorities. Each review multiplies the system's value. Use profiles in `_codex/profiles/`.
+- **Monthly review**: domain health check, metric review, system maintenance, goal alignment.
+- **Quarterly review**: pattern analysis, decision audit, long-term project recalibration, OKR setting.
 - Review documents use the `review` template and are stored in the appropriate domain folder.
 
 ---

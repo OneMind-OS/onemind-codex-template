@@ -1,15 +1,15 @@
 ---
 id: ui-00-20260101000000
-title: "UI — Unified Intelligence"
+title: "SO — Sovereign Operations"
 type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [quadrant/ui, type/index, status/active]
-ai_summary: "Quadrant index for Unified Intelligence — AI, tech, infrastructure, architecture, automation"
+tags: [domain/so, type/index, status/active]
+ai_summary: "Quadrant index for Sovereign Operations — AI, tech, infrastructure, architecture, automation"
 ---
 
-# UI — Unified Intelligence (00–24)
+# SO — Sovereign Operations (00–24)
 
 > *The brain of the operation. Everything that makes the system run.*
 
@@ -17,7 +17,7 @@ ai_summary: "Quadrant index for Unified Intelligence — AI, tech, infrastructur
 
 ## What This Quadrant Is
 
-**Unified Intelligence** is where you design, build, and operate your technological and AI infrastructure. If HP is your personal OS, UI is the operating system that runs your life machine — the agents, automations, tools, and platforms that extend your capability.
+**Sovereign Operations** is where you design, build, and operate your technological and AI infrastructure. If HP is your personal OS, SO is the operating system that runs your life machine — the agents, automations, tools, and platforms that extend your capability.
 
 This is also where One Mind *itself* lives: the framework, the doctrine, the protocols that govern how everything else works.
 
@@ -26,13 +26,13 @@ This is also where One Mind *itself* lives: the framework, the doctrine, the pro
 ## The Analogy
 
 ```text
-UI = Brain + Nervous System
+SO = Brain + Nervous System
 HP = The person running it
 LE = The home it lives in
 GE = What it builds for the world
 ```
 
-Without a strong UI quadrant, the other three quadrants are fragmented. UI is what connects them.
+Without a strong SO layer, the other three domains are fragmented. SO is what connects them.
 
 ---
 
@@ -55,7 +55,7 @@ Without a strong UI quadrant, the other three quadrants are fragmented. UI is wh
 
 ## My Approach (Zeus's Example)
 
-I use the UI quadrant as the **control room** for everything. My AI agents (Legacy, Oracle, Spartan, etc.) all have their configs documented here. Every automation I run is mapped in `09 Automation`. Every SOP I follow is in `03 Protocols`.
+I use the SO layer as the **control room** for everything. My AI agents (Legacy, Oracle, Spartan, etc.) all have their configs documented here. Every automation I run is mapped in `09 Automation`. Every SOP I follow is in `03 Protocols`.
 
 The `06 Inbox` is the highest-traffic folder — it receives everything I capture throughout the day, from voice memos to screenshots to AI outputs. I process it during my daily review.
 

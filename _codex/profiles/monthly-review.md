@@ -6,7 +6,7 @@ status: active
 created: 2026-03-19
 owner: zeus
 tags: [type/profile, cadence/monthly]
-ai_summary: "Monthly review protocol — 1st of month, 60 min, full quadrant check"
+ai_summary: "Monthly review protocol — 1st of month, 60 min, full domain check"
 ---
 
 # Monthly Review Profile
@@ -18,7 +18,7 @@ ai_summary: "Monthly review protocol — 1st of month, 60 min, full quadrant che
 
 - [ ] Read all 4 weekly reviews from last month
 - [ ] Fill in monthly `_codex/templates/review.md` → save to `HP/29 Life Systems/Reviews/`
-- [ ] Complete the Quadrant Check (one paragraph per quadrant: UI / HP / LE / GE)
+- [ ] Complete the Domain Check (one paragraph per domain: SO / HP / LE / GE)
 - [ ] Review personal finance metrics (see `HP/30 Finance/`)
 - [ ] Review health metrics (see `HP/27 Body/`)
 - [ ] Archive completed projects, update status on stale ones

@@ -5,7 +5,7 @@ type: sop
 status: active
 created: "{YYYY-MM-DD}"
 owner: "{your-name}"
-tags: [type/sop, "domain/{quadrant}"]
+tags: [type/sop, "domain/{domain}"]
 related: []
 ai_summary: "SOP: {what process this describes in ≤10 words}"
 ---
@@ -13,7 +13,7 @@ ai_summary: "SOP: {what process this describes in ≤10 words}"
 # SOP: {Process Name}
 
 <!-- SOPs are repeatable procedures. Save in the domain where this process lives.
-     e.g. onboarding a new agent → UI/03 Protocols/, weekly finance review → HP/30 Finance/ -->
+     e.g. onboarding a new agent → SO/03 Protocols/, weekly finance review → HP/30 Finance/ -->
 
 ## Purpose
 

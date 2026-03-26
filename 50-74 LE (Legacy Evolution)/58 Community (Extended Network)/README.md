@@ -46,6 +46,6 @@ Your relationship with the world outside your immediate family — neighbors, or
 
 This is the domain I underestimated most. "Community" sounds soft — but your extended network is infrastructure. The right neighbor helps during an emergency. The right mentor opens the right door at the right moment. The right online community becomes a business.
 
-My online community is documented here — not the technical setup (that's in UI) — but the *purpose*, the *values*, who it's for, and what I'm trying to build with it. That framing helps me make decisions about content and engagement without losing the thread.
+My online community is documented here — not the technical setup (that's in SO) — but the *purpose*, the *values*, who it's for, and what I'm trying to build with it. That framing helps me make decisions about content and engagement without losing the thread.
 
 The giving file was a game changer. Once I wrote down *why* I give to each cause and what impact I want to see, I stopped saying yes to everything that asked and started being intentional.

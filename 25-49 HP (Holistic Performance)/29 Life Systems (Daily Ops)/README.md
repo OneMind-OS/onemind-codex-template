@@ -52,7 +52,7 @@ This is the domain I come back to more than any other. When my life feels chaoti
 
 My morning routine is documented in `daily-rhythm.md` down to the minute — not because I'm rigid, but because having it written means my AI can help me audit when things drift. If I haven't meditated in a week, it can surface that.
 
-The `sops/weekly-review.md` is the most valuable file in my entire HP quadrant. It's a 10-question checklist I run every Sunday. It takes 30 minutes and gives me 7 days of clarity.
+The `sops/weekly-review.md` is the most valuable file in my entire HP domain. It's a 10-question checklist I run every Sunday. It takes 30 minutes and gives me 7 days of clarity.
 
 **Don't wait for the "right" system. Document what you're already doing first. Then optimize.**
 

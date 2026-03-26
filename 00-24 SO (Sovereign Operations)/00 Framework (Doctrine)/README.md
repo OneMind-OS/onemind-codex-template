@@ -19,7 +19,7 @@ ai_summary: "Index for core One Mind doctrine — the framework, architecture, a
 
 The principles, architecture, and doctrine of the One Mind framework itself. These are the files you read once deeply and refer back to often. Your AI agents treat these as ground truth.
 
-- Core methodology (CODEX: Capture → Organize → Direct → Execute → eXamine)
+- Core methodology (CODEX: Capture → Organize → Direct → Execute → × Multiply)
 - Vault architecture decisions
 - The philosophy behind why the system is built the way it is
 - Quick-start guides and onboarding docs

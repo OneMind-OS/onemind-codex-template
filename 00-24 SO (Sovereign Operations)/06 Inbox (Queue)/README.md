@@ -67,4 +67,4 @@ When processing each item, decide:
 
 ## Note
 
-You'll notice the Inbox folder is in `00-24 UI` — domain `06`. This is intentional. The Inbox belongs to your Unified Intelligence quadrant because processing the inbox is a *system operation* — it's how information enters and routes through the entire vault.
+You'll notice the Inbox folder is in `00-24 SO` — domain `06`. This is intentional. The Inbox belongs to your Sovereign Operations layer because processing the inbox is a *system operation* — it's how information enters and routes through the entire vault.

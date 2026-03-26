@@ -39,7 +39,7 @@ This domain manages all security-related knowledge — access control policies, 
 
 ## Tools
 
-- **1Password** — credential vault (vault: `00-24 UI`)
+- **1Password** — credential vault (vault: `00-24 SO`)
 - **Tailscale** — zero-trust network access
 - **UFW** — VPS firewall
 - **Fail2ban** — brute-force protection

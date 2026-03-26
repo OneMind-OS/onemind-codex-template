@@ -17,7 +17,7 @@ ai_summary: "Entry point for any agent or human navigating this vault — read f
 
 ## What This Is
 
-This is a **One Mind Codex** — a structured knowledge base in plain Markdown, organized using the CODEX method (Capture → Organize → Direct → Execute → eXamine). It is the single source of truth for all knowledge, decisions, plans, relationships, and operations.
+This is a **One Mind Codex** — a structured knowledge base in plain Markdown, organized using the CODEX method (Capture → Organize → Direct → Execute → × Multiply). It is the single source of truth for all knowledge, decisions, plans, relationships, and operations.
 
 **Format**: Markdown + YAML frontmatter + `[[wiki-links]]` + tags
 **Storage**: Git repository (versioned, portable, forkable)
@@ -28,13 +28,13 @@ This is a **One Mind Codex** — a structured knowledge base in plain Markdown, 
 ## How It's Organized — 4 Quadrants
 
 ```text
-00-24  UI  — Unified Intelligence      Tech, AI, infrastructure, architecture
+00-24  SO  — Sovereign Operations      Tech, AI, infrastructure, architecture
 25-49  HP  — Holistic Performance      Health, money, identity, skills, relationships
 50-74  LE  — Legacy Evolution          Family, home, children, estate
 75-99  GE  — Generational Entrepreneurship  Business, ventures, wealth
 ```
 
-Each quadrant contains **numbered domain folders**. Each domain folder has a `README.md` explaining what lives there.
+Each domain group contains **numbered domain folders**. Each domain folder has a `README.md` explaining what lives there.
 
 ---
 
@@ -44,11 +44,15 @@ Each quadrant contains **numbered domain folders**. Each domain folder has a `RE
 
 | Need | Where to go |
 |------|------------|
-| Starting fresh | `00-24 UI/00 Framework (Doctrine)/README.md` |
-| Daily log | `_codex/templates/daily.md` → save to your HP or UI domain |
-| Capture something fast | Drop it in `00-24 UI/06 Inbox (Queue)/` |
+| **Brand new? Start here** | [`QUICK-START.md`](../QUICK-START.md) — 30-minute guided setup |
+| Starting fresh | `00-24 SO/00 Framework (Doctrine)/README.md` |
+| Daily log | `_codex/templates/daily.md` → save to your HP or SO domain |
+| Capture something fast | Drop it in `00-24 SO/06 Inbox (Queue)/` |
+| Set a goal | `_codex/templates/goal.md` |
+| Track a task | `_codex/templates/task.md` |
 | Make a decision record | `_codex/templates/decision.md` |
 | Start a project | `_codex/templates/project.md` |
+| Track a metric | `_codex/templates/metric.md` |
 | Run a weekly review | `_codex/templates/review.md` |
 | Find a contact | `25-49 HP/32 Relationships/` |
 
@@ -74,12 +78,12 @@ Each quadrant contains **numbered domain folders**. Each domain folder has a `RE
 ```text
 C — CAPTURE    Everything that enters your awareness enters the vault
 O — ORGANIZE   Route it to the right domain and apply the right template
-D — DIRECT     Decide what matters — set priorities, assign agents
+D — DIRECT     Command: decide what matters, assign operators, define done
 E — EXECUTE    Do the work, delegate to AI, complete tasks
-X — eXAMINE   Review, measure, learn, feed back into Capture
+× — MULTIPLY   Review, measure, extract lessons — each cycle compounds value
 ```
 
-This is a loop, not a checklist. You run it daily (micro), weekly (review), and quarterly (planning).
+This is a loop, not a checklist. You run it daily (micro), weekly (review), and quarterly (planning). The × step multiplies the system's intelligence with every cycle.
 
 ---
 

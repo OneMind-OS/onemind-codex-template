@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [quadrant/ge, type/index, status/active]
+tags: [domain/ge, type/index, status/active]
 ai_summary: "Quadrant index for Generational Entrepreneurship — business, brand, ventures, wealth building"
 ---
 
@@ -27,7 +27,7 @@ The word "generational" is intentional. This isn't about quick wins. It's about 
 
 ```text
 GE = The mission (output + empire + legacy)
-UI = The brain
+SO = The brain
 HP = The person executing it
 LE = The home base that sustains the mission
 ```
@@ -51,7 +51,7 @@ LE = The home base that sustains the mission
 
 ## My Approach (Zeus's Example)
 
-My GE quadrant centers on one core model: **Zeus Delacruz teaches the One Mind framework** the way Tiago Forte teaches Building a Second Brain. Domain `75 Personal Brand` holds my brand architecture, content strategy, and speaking frameworks.
+My GE domain centers on one core model: **Zeus Delacruz teaches the One Mind framework** the way Tiago Forte teaches Building a Second Brain. Domain `75 Personal Brand` holds my brand architecture, content strategy, and speaking frameworks.
 
 Domain `76 Education` is where the community business lives — One Mind Codex as a course and membership. Domain `84 Ventures` is where I incubate new ideas before they become real businesses.
 

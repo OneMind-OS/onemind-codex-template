@@ -5,7 +5,7 @@ type: project
 status: active
 created: "{YYYY-MM-DD}"
 owner: "{your-name}"
-tags: [type/project, "domain/{quadrant}"]
+tags: [type/project, "domain/{domain}"]
 related: []
 ai_summary: "Project: {one-line goal and current status}"
 ---

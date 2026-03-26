@@ -31,19 +31,38 @@ Think of it as watching me build in real time. I update this as I work. You can 
 
 ---
 
+## New Here? Start in 30 Minutes
+
+**[→ Read the Quick Start Guide](QUICK-START.md)**
+
+You don't need to understand the whole system. You need 4 buckets and 30 minutes:
+
+```
+🧠  TECH & AI       Your tools, your systems
+💪  YOU              Your health, your money, your growth
+🏡  FAMILY           Your home, your people, your legacy
+👑  BUSINESS         Your work, your ventures, your brand
+```
+
+Drop things in the right bucket. Sort your inbox Sunday. That's it for Day 1.
+
+The system grows with your life — from 4 buckets to 100 domains. You'll never outgrow it, and you'll never need to start over.
+
+---
+
 ## The One Mind Framework
 
 One Mind is an AI-native life operating system. Unlike GTD, PARA, or Second Brain — which were built for humans working alone — One Mind is designed for **humans and AI working together**. The system has one core method:
 
 ```text
-C → O → D → E → X
-Capture → Organize → Direct → Execute → eXamine
+C → O → D → E → ×
+Capture → Organize → Direct → Execute → × Multiply
 ```
 
-The vault is divided into 4 quadrants covering every domain of life:
+The vault is organized into 3 life domains + 1 operating layer covering every domain of life:
 
 ```text
-00-24  UI  — Unified Intelligence   (AI, tech, infrastructure)
+00-24  SO  — Sovereign Operations   (AI, tech, infrastructure)
 25-49  HP  — Holistic Performance   (health, money, identity, skills)
 50-74  LE  — Legacy Evolution       (family, home, estate)
 75-99  GE  — Generational Entrepreneurship (business, ventures, wealth)
@@ -58,8 +77,8 @@ The vault is divided into 4 quadrants covering every domain of life:
 1. Go to the **[OneMind Codex Template](https://github.com/OneMind-OS/onemind-codex-template)** on GitHub
 2. Click the green **"Use this template"** button → **"Create a new repository"**
 3. Open your new repo folder in [Obsidian](https://obsidian.md) (free)
-4. Read `_codex/INTERFACE.md` — it explains everything to you (and your AI)
-5. Start with the quadrant that matters most to you right now
+4. **Read [`QUICK-START.md`](QUICK-START.md)** — your 30-minute onboarding guide
+5. Start with the domain that matters most to you right now
 6. Replace my examples with your own life
 
 > The template vault always matches what you see on this site — it syncs automatically.
@@ -70,7 +89,15 @@ Browse the domains. Read how I structure my notes, make decisions, run reviews. 
 
 ### Option 3 — Use the Templates
 
-Every note type has a template in `_codex/templates/`. Copy the template, fill it in, save it in the right domain folder. That's the whole system.
+Every note type has a template in `_codex/templates/`. Start with these three:
+
+| Template | When To Use |
+|----------|-------------|
+| **[Goal](/_codex/templates/goal.md)** | You want to achieve something |
+| **[Task](/_codex/templates/task.md)** | You need to do something |
+| **[Note](/_codex/templates/note.md)** | You want to remember something |
+
+Copy the template, fill it in, save it in the right bucket folder. That's the whole system. More templates (decision, project, metric, SOP, review) unlock as you need them.
 
 ---
 
@@ -86,7 +113,7 @@ codex-live/
 │   ├── system/                      ← Always-loaded context (pinned)
 │   └── profiles/                    ← Review cadence profiles
 │
-├── 00-24 UI (Unified Intelligence)/ ← AI, tech, infrastructure
+├── 00-24 SO (Sovereign Operations)/ ← AI, tech, infrastructure
 │   ├── 00 Framework (Doctrine)/     ← Core principles
 │   ├── 01 Command (Dashboard)/      ← Navigation + dashboards
 │   ├── 02 Agents (AI & Tools)/      ← Agent configs, memory
@@ -140,9 +167,11 @@ codex-live/
 
 ## Start Here
 
-If you're new: **read [`_codex/INTERFACE.md`](_codex/INTERFACE.md) first.**
+If you're new: **read [`QUICK-START.md`](QUICK-START.md) first.** It's a 30-minute guided walkthrough.
 
-If you're an AI agent assigned to this vault: same answer — `_codex/INTERFACE.md` tells you everything.
+If you want the deep framework: read [`CODEX-FRAMEWORK.md`](CODEX-FRAMEWORK.md).
+
+If you're an AI agent assigned to this vault: read [`_codex/INTERFACE.md`](_codex/INTERFACE.md).
 
 ---
 

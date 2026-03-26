@@ -42,7 +42,7 @@ ai_summary: "Review for {period} — wins, lessons, priorities"
 
 ## Quadrant Check
 
-- **UI (Tech/AI)**: {brief status — what's happening in your tech/AI domain}
+- **SO (Tech/AI)**: {brief status — what's happening in your tech/AI domain}
 - **HP (Self)**: {brief status — health, money, relationships, energy}
 - **LE (Family)**: {brief status — home, family, relationships}
 - **GE (Business)**: {brief status — work, ventures, brand, money}
@@ -58,6 +58,7 @@ ai_summary: "Review for {period} — wins, lessons, priorities"
 {If this period had a title, what would it be?}
 
 ---
-<!-- AI AGENT NOTE: Reviews are the primary feedback loop in the CODEX method (the X step).
+<!-- AI AGENT NOTE: Reviews are the primary feedback loop in the CODEX method (the × multiply step).
      When running a review, load the daily logs from the period to surface patterns.
-     Compare this period's metrics to the previous review for trend analysis. -->
+     Compare this period's metrics to the previous review for trend analysis.
+     Each review cycle multiplies the system's intelligence — extract lessons, refine AOPs. -->

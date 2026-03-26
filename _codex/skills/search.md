@@ -30,7 +30,7 @@ Use Obsidian's tag panel or grep:
 ```
 #type/decision       → all decision records
 #type/sop            → all SOPs
-#domain/ui           → everything in UI quadrant
+#domain/so           → everything in SO
 #status/active       → only active items
 #cadence/weekly      → weekly review notes
 ```
@@ -57,7 +57,7 @@ The agent will use semantic search across `ai_summary` fields and content.
 | How do I do X? | Search tag `#type/sop` |
 | What happened this week? | `25-49 HP/29 Life Systems/Daily Notes/` |
 | What's in progress? | Search `status: active` + `type: project` |
-| What's in the inbox? | `00-24 UI/06 Inbox (Queue)/` |
+| What's in the inbox? | `00-24 SO/06 Inbox (Queue)/` |
 
 ---
 

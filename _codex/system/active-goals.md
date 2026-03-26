@@ -35,8 +35,8 @@ ai_summary: "Current active goals and priorities for Q1 2026 — building One Mi
 
 | Project | Domain | Status | Next Action |
 |---------|--------|--------|-------------|
-| Codex Live public vault | UI/GE | 🟡 In progress | Finish vault structure, push to GitHub |
-| Legacy AI (OpenClaw) | UI | 🟢 Running | Weekly monitoring + skill development |
+| Codex Live public vault | SO/GE | 🟡 In progress | Finish vault structure, push to GitHub |
+| Legacy AI (OpenClaw) | SO | 🟢 Running | Weekly monitoring + skill development |
 | One Mind community | GE | 🟡 In progress | Publish codex-live, drive signups |
 | Physical optimization | HP | 🟡 In progress | Consistent morning routine |
 

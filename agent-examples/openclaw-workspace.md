@@ -92,7 +92,7 @@ codex/                         ← the knowledge base (indexed by memory_search)
 │   ├── system/                ← boot context
 │   ├── skills/                ← procedures
 │   └── templates/             ← note templates
-├── 00-24 UI/                  ← tech & infrastructure notes
+├── 00-24 SO/                  ← tech & infrastructure notes
 ├── 25-49 HP/                  ← health & personal notes
 ├── 50-74 LE/                  ← family & legacy notes
 └── 75-99 GE/                  ← business & wealth notes

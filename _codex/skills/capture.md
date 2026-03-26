@@ -44,7 +44,7 @@ Input (any source)
 
 5. **Choose the destination**
    - If the domain is obvious → save there directly
-   - If uncertain → save to `00-24 UI/06 Inbox (Queue)/`
+   - If uncertain → save to `00-24 SO/06 Inbox (Queue)/`
    - Never create new top-level folders
 
 ## Capture Sources

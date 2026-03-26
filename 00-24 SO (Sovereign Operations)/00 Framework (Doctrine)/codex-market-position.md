@@ -39,7 +39,7 @@ ai_summary: "Why CODEX wins against GTD, PARA, CODE, and Second Brain in the AI 
 
 ### CODE (Capture, Organize, Distill, Express)
 - ✅ Great at: Knowledge pipeline for content creators
-- ❌ Breaks because: Stops at "Express" (output for humans). No "Execute" (AI takes action). No "eXamine" (feedback loop). Knowledge-only, not life-scope.
+- ❌ Breaks because: Stops at "Express" (output for humans). No "Execute" (AI takes action). No "× Multiply" (compounding feedback loop). Knowledge-only, not life-scope.
 
 ### Second Brain
 - ✅ Great at: Making knowledge capture mainstream
@@ -57,11 +57,11 @@ ai_summary: "Why CODEX wins against GTD, PARA, CODE, and Second Brain in the AI 
 Every other framework was designed for humans alone and tries to retrofit AI. CODEX was built WITH AI as a first-class participant. The vault structure, frontmatter, `_codex/INTERFACE.md` — all designed for both human and AI consumption simultaneously.
 
 ### 2. The Full Pipeline: Method + Structure + Intelligence + Execution + Measurement
-- **METHOD:** CODEX (Capture → Organize → Direct → Execute → eXamine)
-- **STRUCTURE:** 4 quadrants, 100 domains, numbered system
+- **METHOD:** CODEX (Capture → Organize → Direct → Execute → × Multiply)
+- **STRUCTURE:** 3 life domains + SO operating layer, 100 sub-domains (progressive activation), 17 entity types
 - **INTELLIGENCE:** `_codex/` (skills, templates, profiles, pinned system context)
 - **EXECUTION:** AI agents running skills from portable markdown
-- **MEASUREMENT:** Intelligence scores (HPI, LEI, GEI, UI), review cadences
+- **MEASUREMENT:** × Multiply step — metrics, reviews, intelligence scores (HPI, LEI, GEI, IOI), review cadences
 
 Nobody else has all five. GTD has method only. PARA has structure only. Letta has intelligence only.
 
@@ -69,11 +69,11 @@ Nobody else has all five. GTD has method only. PARA has structure only. Letta ha
 Skills are recipes in markdown. Not Notion databases. Not Obsidian plugins. Not API endpoints. Plain `.md` files that any intelligence — human, AI, or future — can read. When you switch from Claude to GPT to Gemini to whatever comes next, the codex transfers. Systems die. Markdown lives forever.
 
 ### 4. Life-Scope (Not Just Work or Knowledge)
-Four quadrants covering your ENTIRE existence:
+Three life domains + one operating layer covering your ENTIRE existence:
 - **HP (Holistic Performance):** Health, identity, finance, skills, relationships
 - **LE (Legacy Evolution):** Family, home, marriage, children, heritage, estate
 - **GE (Generational Entrepreneurship):** Business, ventures, revenue, strategy
-- **UI (Unified Intelligence):** The coordination layer — AI, infrastructure, automation
+- **SO (Sovereign Operations):** The coordination layer — AI, infrastructure, automation
 
 GTD is task-scope. PARA is file-scope. CODEX is life-scope.
 
@@ -99,7 +99,7 @@ The world just converged on local-first, markdown-based, git-versioned knowledge
 
 > **"GTD taught you to clear your head. PARA taught you to organize files. CODEX teaches you to run your entire life — with AI as your co-pilot.**
 >
-> **Five steps: Capture, Organize, Direct, Execute, eXamine.**
+> **Five steps: Capture, Organize, Direct, Execute, × Multiply.**
 > **Plain markdown that any AI can read.**
 > **Your life's source code that outlives every app you'll ever use."**
 
@@ -114,7 +114,7 @@ The world just converged on local-first, markdown-based, git-versioned knowledge
 → CODEX-FRAMEWORK.md — The full CODEX method, head-to-head comparisons
 
 ### For the Life Optimizer (1 hour)
-→ ONEMIND-CODEX.md — Full doctrine, 4 quadrants, scoring, philosophy
+→ ONEMIND-CODEX.md — Full doctrine, 3 domains + SO, scoring, philosophy
 
 ### For the AI Developer (15 minutes)
 → _codex/INTERFACE.md — How to make any AI agent codex-native
@@ -123,7 +123,7 @@ The world just converged on local-first, markdown-based, git-versioned knowledge
 
 ## What Comes Next
 
-1. **Starter Kit** — Fork the codex-live repo, get 4 domains (one per quadrant), start capturing in 10 minutes
+1. **Starter Kit** — Fork the codex-live repo, get 3 life domains + SO, start capturing in 10 minutes
 2. **Execution Demos** — Live videos of AI agents running skills from the codex
-3. **Community Codexes** — Others fork, customize, share their quadrant structures
+3. **Community Codexes** — Others fork, customize, share their domain structures
 4. **The Codex Academy** — Teaching the framework to the world

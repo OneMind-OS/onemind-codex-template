@@ -32,7 +32,7 @@ Read these files FIRST before any operation:
 - _codex/system/IDENTITY.md — what this codex is and who it belongs to
 
 ## Domain Structure
-- 00-24 UI/ — Technology, AI, infrastructure
+- 00-24 SO/ — Technology, AI, infrastructure
 - 25-49 HP/ — Health, skills, personal development
 - 50-74 LE/ — Family, home, legacy
 - 75-99 GE/ — Business, ventures, wealth
@@ -107,7 +107,7 @@ A personal knowledge codex — structured markdown vault with YAML frontmatter.
 ## Domain Map
 | Range | Domain | Content |
 |-------|--------|---------|
-| 00-24 | UI | Technology, AI, infrastructure |
+| 00-24 | SO | Technology, AI, infrastructure |
 | 25-49 | HP | Health, skills, personal growth |
 | 50-74 | LE | Family, home, legacy planning |
 | 75-99 | GE | Business, ventures, wealth |

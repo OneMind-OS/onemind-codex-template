@@ -36,12 +36,12 @@ Build CODEX. The existing frameworks were designed for humans working alone. Wit
 
 ## Rationale
 
-The key insight: PARA and GTD stop at "organize." CODEX goes to "Execute" (AI takes action) and "eXamine" (feedback loop). Plain markdown means it survives any tool migration. The 4-quadrant, 100-domain numbering system gives both humans and AI a shared addressing scheme for all of life.
+The key insight: PARA and GTD stop at "organize." CODEX goes to "Execute" (AI takes action) and "× Multiply" (compounding feedback loop). Plain markdown means it survives any tool migration. The 100-domain numbering system gives both humans and AI a shared addressing scheme for all of life.
 
 ## Consequences
 
 - Built the One Mind Codex vault from scratch (this vault)
-- Migrated all PARA-organized notes into the CODEX quadrant structure
+- Migrated all PARA-organized notes into the CODEX domain structure
 - Started building AI agent integrations that read/write the codex directly
 
 ## Review Date

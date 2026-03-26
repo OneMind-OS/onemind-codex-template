@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [quadrant/le, type/index, status/active]
+tags: [domain/le, type/index, status/active]
 ai_summary: "Quadrant index for Legacy Evolution — family, home, children, estate, community"
 ---
 
@@ -27,7 +27,7 @@ While HP is about optimizing yourself, LE is about the world you're creating *fo
 
 ```text
 LE = The home base (structure + people + roots)
-UI = The brain
+SO = The brain
 HP = The person
 GE = The mission
 ```

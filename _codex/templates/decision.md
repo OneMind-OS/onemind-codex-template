@@ -5,7 +5,7 @@ type: decision
 status: active
 created: "{YYYY-MM-DD}"
 decided_by: "{your-name}"
-tags: [type/decision, "domain/{quadrant}"]
+tags: [type/decision, "domain/{domain}"]
 related: []
 ai_summary: "Decision: {what was chosen and why, in ≤15 words}"
 ---
@@ -13,7 +13,7 @@ ai_summary: "Decision: {what was chosen and why, in ≤15 words}"
 # Decision: {Title}
 
 <!-- Save in the domain most affected by this decision.
-     e.g. choosing an AI provider → UI/02 Agents/, choosing a home → LE/50 Home/ -->
+     e.g. choosing an AI provider → SO/02 Agents/, choosing a home → LE/50 Home/ -->
 
 ## Context
 

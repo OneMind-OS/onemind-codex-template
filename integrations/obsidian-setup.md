@@ -53,7 +53,7 @@ The codex domains appear as top-level folders in Obsidian's sidebar:
 ```
 Vault Root/
 ├── _codex/          ← Meta layer (collapse this in sidebar if noisy)
-├── 00-24 UI/        ← Tech, infrastructure, AI
+├── 00-24 SO/        ← Tech, infrastructure, AI
 ├── 25-49 HP/        ← Health, skills, personal
 ├── 50-74 LE/        ← Family, home, legacy
 ├── 75-99 GE/        ← Business, ventures, wealth

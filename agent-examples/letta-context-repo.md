@@ -45,7 +45,7 @@ Letta's tools map to codex skills:
 Letta's archival memory is searchable but not always loaded. Domain folders serve this role:
 
 ```
-00-24 UI/   →  archival passages about tech, infrastructure, AI
+00-24 SO/   →  archival passages about tech, infrastructure, AI
 25-49 HP/   →  archival passages about health, skills, personal growth
 50-74 LE/   →  archival passages about family, home, legacy
 75-99 GE/   →  archival passages about business, ventures, wealth
@@ -127,7 +127,7 @@ agent = client.create_agent(
 import os
 
 # Walk codex domain folders and insert as archival memory
-for domain_dir in ["00-24 UI", "25-49 HP", "50-74 LE", "75-99 GE"]:
+for domain_dir in ["00-24 SO", "25-49 HP", "50-74 LE", "75-99 GE"]:
     for root, dirs, files in os.walk(domain_dir):
         for file in files:
             if file.endswith(".md"):

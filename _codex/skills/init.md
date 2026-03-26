@@ -28,7 +28,7 @@ ai_summary: "How to bootstrap a new codex vault or onboard an AI agent to an exi
 ```text
 codex/
 ├── _codex/                  ← Copy this folder from the template
-├── 00-24 UI (Unified Intelligence)/README.md
+├── 00-24 SO (Sovereign Operations)/README.md
 ├── 25-49 HP (Holistic Performance)/README.md
 ├── 50-74 LE (Legacy Evolution)/README.md
 ├── 75-99 GE (Generational Entrepreneurship)/README.md
@@ -73,7 +73,7 @@ When an agent needs to learn a vault it's never seen:
 1. Load `_codex/INTERFACE.md` — vault structure overview
 2. Load all files in `_codex/system/` — pinned context
 3. Load `_codex/CONVENTIONS.md` — naming and frontmatter rules
-4. Scan each quadrant README — get the map
+4. Scan each domain index — get the map
 5. Read `ai_summary` fields in recently modified files — learn what's active
 
 Do not load every file. Read summaries first, open full files only when needed.
@@ -86,6 +86,6 @@ Do not load every file. Read summaries first, open full files only when needed.
 - [ ] Opened in Obsidian
 - [ ] Filled in `_codex/system/identity.md`
 - [ ] Filled in `_codex/system/active-goals.md`
-- [ ] Created at least one domain folder per quadrant
+- [ ] Created at least one domain folder per group
 - [ ] Initialized git
 - [ ] Created first daily log

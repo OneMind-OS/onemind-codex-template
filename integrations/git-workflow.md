@@ -70,7 +70,7 @@ capture: daily log 2026-03-19
 organize: route inbox items to HP and GE domains
 review: weekly review — archive completed projects
 decision: choose NATS over RabbitMQ for messaging
-refactor: split 00-24 UI into tech and infrastructure subfolders
+refactor: split 00-24 SO into tech and infrastructure subfolders
 ```
 
 ## Obsidian Git Plugin

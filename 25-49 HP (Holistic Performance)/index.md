@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [quadrant/hp, type/index, status/active]
+tags: [domain/hp, type/index, status/active]
 ai_summary: "Quadrant index for Holistic Performance — self, health, money, skills, relationships, daily life"
 ---
 
@@ -27,7 +27,7 @@ Most productivity systems stop here. One Mind goes further — but without a sol
 
 ```text
 HP = The person (hardware + software + fuel)
-UI = The brain
+SO = The brain
 LE = The home
 GE = The mission
 ```
