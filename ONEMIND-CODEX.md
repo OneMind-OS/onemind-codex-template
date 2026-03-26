@@ -133,21 +133,21 @@ Your body is the hardware. HP covers everything about maintaining and upgrading 
 
 *Contains: Identity, intelligence, body, mastery, life systems, finance, sovereignty, relationships, spirituality, joy.*
 
-### 🏡 LE — Legacy Evolution (50–74) — The Family
+### 🏡 LE — Legacy Evolution (50–74) — Your World
 
-**What outlives you.** Home, family, estate, agriculture, generational planning.
+**Everything beyond yourself.** The relationships, community, home, and environment you build around you.
 
-What you're building that outlives you. Your home, your land, your family systems, your estate plan. The things measured in decades and generations, not sprints.
+Not everyone has a family — but everyone has a world they're building. For some that's marriage, children, and estate planning. For others it's friendships, mentorship, community, and creative legacy. Whatever you're building that outlasts your daily routine — that's LE.
 
-*Contains: Home, marriage, children, parents, heritage, health (family), wealth (estate), legal, community.*
+*Contains: Home, relationships (marriage, partnerships), children, parents, heritage, community, environment, estate, legal.*
 
-### 👑 GE — Generational Entrepreneurship (75–99) — The Business
+### 👑 GE — Generational Expansion (75–99) — Your Growth
 
-**How you create value.** Ventures, revenue, marketing, partnerships, brand, wealth creation.
+**How you create value and expand your impact.** Career, ventures, brand, wealth, education, IP.
 
-How you create and compound value in the world. Business strategy, marketing, sales, partnerships, IP, and the ventures that fund everything else.
+Not everyone runs a business — but everyone creates value. A teacher expands through students. An engineer expands through systems. An entrepreneur expands through ventures. GE covers your career, your craft, your brand, your income, and everything you build that generates value in the world.
 
-*Contains: Personal brand, education, IP & platforms, technology, treasury, strategy, partnerships, ventures.*
+*Contains: Personal brand, education, IP & platforms, technology, treasury, strategy, career, partnerships, ventures.*
 
 ### Why This Hierarchy Matters
 
@@ -176,7 +176,7 @@ your-codex/
 ├── 00-24 SO/                   ← 🧠 Sovereign Operations
 ├── 25-49 HP/                   ← 💪 Holistic Performance
 ├── 50-74 LE/                   ← 🏡 Legacy Evolution
-├── 75-99 GE/                   ← 👑 Generational Entrepreneurship
+├── 75-99 GE/                   ← 👑 Generational Expansion
 ├── ONEMIND-CODEX.md            ← This file (master document)
 ├── CODEX-FRAMEWORK.md          ← Deep-dive on the CODEX method
 └── AGENTS.md                   ← Instructions for AI agents

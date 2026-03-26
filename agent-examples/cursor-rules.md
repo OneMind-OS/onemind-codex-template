@@ -34,8 +34,8 @@ Read these files FIRST before any operation:
 ## Domain Structure
 - 00-24 SO/ — Technology, AI, infrastructure
 - 25-49 HP/ — Health, skills, personal development
-- 50-74 LE/ — Family, home, legacy
-- 75-99 GE/ — Business, ventures, wealth
+- 50-74 LE/ — Relationships, community, home
+- 75-99 GE/ — Career, ventures, impact, wealth
 
 ## Rules
 - Every new file MUST have YAML frontmatter (title, type, domain, tags, ai_summary)
@@ -109,8 +109,8 @@ A personal knowledge codex — structured markdown vault with YAML frontmatter.
 |-------|--------|---------|
 | 00-24 | SO | Technology, AI, infrastructure |
 | 25-49 | HP | Health, skills, personal growth |
-| 50-74 | LE | Family, home, legacy planning |
-| 75-99 | GE | Business, ventures, wealth |
+| 50-74 | LE | Relationships, community, home |
+| 75-99 | GE | Career, ventures, impact, wealth |
 
 ## Rules
 1. Every file needs YAML frontmatter (title, type, domain, tags, ai_summary)

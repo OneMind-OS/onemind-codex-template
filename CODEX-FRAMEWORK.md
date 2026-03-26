@@ -200,8 +200,8 @@ D — DIRECT:
 |----------|----------|--------|
 | 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
-| 50–74 | **LE** — Legacy Evolution | Family, home, estate |
-| 75–99 | **GE** — Generational Entrepreneurship | Business, ventures, wealth |
+| 50–74 | **LE** — Legacy Evolution | Relationships, community, home |
+| 75–99 | **GE** — Generational Expansion | Career, ventures, impact, wealth |
 
 ### The 100-Domain System
 
@@ -1169,25 +1169,26 @@ One Mind OS is NOT four equal boxes. It's **three life domains running on one op
 │              The operating layer that runs everything             │
 ├─────────────────────┬─────────────────────┬──────────────────────┤
 │  HP (25–49)         │  LE (50–74)         │  GE (75–99)          │
-│  Your Self          │  Your Family         │  Your Business       │
-│  (health, mind, $)  │  (home, marriage)    │  (ventures, brand)   │
+│  Your Self          │  Your World          │  Your Growth         │
+│  (health, mind, $)  │  (relationships,     │  (career, ventures,  │
+│                     │   community, home)   │   brand, impact)     │
 └─────────────────────┴─────────────────────┴──────────────────────┘
 ```
 
 **SO is the platform. HP, LE, GE are the applications.** Just like macOS isn't "another app" — it's the operating system that runs all the apps — SO isn't another life domain. It's the layer that runs your life domains.
 
 - SO holds your agents, tools, protocols, automations, and the framework itself
-- HP, LE, GE hold your actual life — health, family, business
+- HP, LE, GE hold your actual life — your self, your world, your growth
 - Every capture flows THROUGH SO's inbox before routing to a domain
 - Every agent LIVES in SO and SERVES HP, LE, and GE
 
 ### Day 1 — Just Drop Things In
 
 ```
-"Is this about me? → HP. My family? → LE. My business? → GE. My system? → SO."
+"Is this about me? → HP. My relationships or home? → LE. My career or income? → GE. My system? → SO."
 ```
 
-On your first day, you don't think about domains at all. You see 3 life folders and 1 system folder. Captured something about your health? Drop it in HP. Business idea? GE. Server configuration? SO. Family matter? LE.
+On your first day, you don't think about domains at all. You see 3 life folders and 1 system folder. Captured something about your health? Drop it in HP. Career move? GE. Server configuration? SO. Community event? LE.
 
 This is **simpler than PARA** — PARA asks you to decide between Projects, Areas, Resources, and Archives (confusing boundaries). Life domains are obvious.
 

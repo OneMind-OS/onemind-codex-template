@@ -6,33 +6,35 @@ status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/le, type/index, status/active]
-ai_summary: "Quadrant index for Legacy Evolution — family, home, children, estate, community"
+ai_summary: "Domain index for Legacy Evolution — relationships, community, home, environment, legacy"
 ---
 
 # LE — Legacy Evolution (50–74)
 
-> *The people and places that outlast you.*
+> *Build the world around you.*
 
 ---
 
-## What This Quadrant Is
+## What This Domain Is
 
-**Legacy Evolution** is where you manage everything connected to your family and home — your closest relationships, your physical environment, the estate you're building, and the generation you're raising.
+**Legacy Evolution** is everything beyond yourself — the relationships, community, home, and environment you're building around you.
 
-While HP is about optimizing yourself, LE is about the world you're creating *for others* — and the systems that make your home and family run smoothly.
+Not everyone has a family. But everyone has a world they're building. For some that's marriage, children, and estate planning. For others it's friendships, mentorship, community involvement, and the spaces they create. Whatever you're building that outlasts your daily routine — that's LE.
+
+While HP is about optimizing yourself, LE is about the world you're creating *around you* — and the systems that make your relationships, home, and community thrive.
 
 ---
 
 ## The Analogy
 
 ```text
-LE = The home base (structure + people + roots)
-SO = The brain
-HP = The person
-GE = The mission
+LE = Your world (relationships + community + home)
+SO = The operating system that runs everything
+HP = The person at the center
+GE = The growth engine that fuels the mission
 ```
 
-LE is what makes everything sustainable. Without a solid home base, the ambition in GE burns out.
+LE is what makes everything sustainable. Without a solid world around you, the ambition in GE burns out.
 
 ---
 
@@ -48,7 +50,9 @@ LE is what makes everything sustainable. Without a solid home base, the ambition
 | 55 | **Health** | Family wellness, medical records |
 | 56 | **Wealth** | Estate, assets, generational transfer |
 | 57 | **Legal** | Family legal documents, wills, trusts |
-| 58 | **Community** | Extended network, neighborhood, civic life |
+| 58 | **Community** | Extended network, friendships, neighborhood, civic life |
+
+*Not every domain applies to everyone. Activate only the ones relevant to your life.*
 
 ---
 
@@ -63,6 +67,6 @@ The key insight: most people run their home on vibes. I run mine with systems. H
 ## Getting Started
 
 1. Start with `50 Home` — document your living situation and any home systems you want to build
-2. Capture important family documents in `57 Legal` (your future self will thank you)
-3. Write down your estate intentions in `56 Wealth`, even if it's early
+2. Use `58 Community` — document your community, friendships, and social connections
+3. Capture important documents in `57 Legal` (your future self will thank you)
 4. Use `51 Partnership` to document how you want to communicate in your most important relationships

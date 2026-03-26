@@ -40,8 +40,8 @@ You don't need to understand the whole system. You need 4 buckets and 30 minutes
 ```
 🧠  TECH & AI       Your tools, your systems
 💪  YOU              Your health, your money, your growth
-🏡  FAMILY           Your home, your people, your legacy
-👑  BUSINESS         Your work, your ventures, your brand
+🏡  YOUR WORLD       Your relationships, community, home
+👑  YOUR GROWTH      Your career, ventures, brand, impact
 ```
 
 Drop things in the right bucket. Sort your inbox Sunday. That's it for Day 1.
@@ -64,8 +64,8 @@ The vault is organized into 3 life domains + 1 operating layer covering every do
 ```text
 00-24  SO  — Sovereign Operations   (AI, tech, infrastructure)
 25-49  HP  — Holistic Performance   (health, money, identity, skills)
-50-74  LE  — Legacy Evolution       (family, home, estate)
-75-99  GE  — Generational Entrepreneurship (business, ventures, wealth)
+50-74  LE  — Legacy Evolution       (relationships, community, home)
+75-99  GE  — Generational Expansion (career, ventures, impact, wealth)
 ```
 
 ---
@@ -137,7 +137,7 @@ codex-live/
 │   ├── 33 Joy/                      ← Fun, travel, recreation
 │   └── 34 Spirituality/             ← Meaning, inner work
 │
-├── 50-74 LE (Legacy Evolution)/     ← Family + home
+├── 50-74 LE (Legacy Evolution)/     ← Relationships + community
 │   ├── 50 Home/                     ← Property, environment
 │   ├── 51 Marriage/                 ← Partnership, communication
 │   ├── 52 Children/                 ← Parenting, education
@@ -148,12 +148,12 @@ codex-live/
 │   ├── 57 Legal/                    ← Documents, wills, trusts
 │   └── 58 Community/                ← Extended network
 │
-├── 75-99 GE (Generational Entrepreneurship)/ ← Business
+├── 75-99 GE (Generational Expansion)/ ← Career + growth
 │   ├── 75 Personal Brand/           ← Your public identity
 │   ├── 76 Education/                ← Teaching, courses
 │   ├── 77 IP & Platforms/           ← Frameworks, creative works
 │   ├── 79 Technology/               ← Tech stack, products
-│   ├── 80 Treasury/                 ← Business finance
+│   ├── 80 Treasury/                 ← Career + growth finance
 │   ├── 81 Strategy/                 ← Planning, analytics
 │   ├── 83 Partnerships/             ← Collaborators, vendors
 │   └── 84 Ventures/                 ← New ideas, innovation

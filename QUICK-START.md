@@ -29,8 +29,8 @@ Everything in your life fits into four buckets:
 ```
 🧠  TECH & AI       Your tools, your systems, your digital infrastructure
 💪  YOU              Your health, your money, your growth, your identity
-🏡  FAMILY           Your home, your people, your legacy
-👑  BUSINESS         Your work, your ventures, your brand
+🏡  YOUR WORLD       Your relationships, community, home
+👑  YOUR GROWTH      Your career, ventures, brand, impact
 ```
 
 That's it. Four buckets. When something comes into your life, you ask **one question: which bucket?**
@@ -38,12 +38,12 @@ That's it. Four buckets. When something comes into your life, you ask **one ques
 | What happened | Which bucket? |
 |--------------|---------------|
 | Doctor's appointment | 💪 YOU |
-| New business idea | 👑 BUSINESS |
-| Kid's school form | 🏡 FAMILY |
+| New career idea | 👑 YOUR GROWTH |
+| Community event invite | 🏡 YOUR WORLD |
 | Want to try a new AI tool | 🧠 TECH |
-| Need to fix the fence | 🏡 FAMILY |
+| Need to fix the fence | 🏡 YOUR WORLD |
 | Found a great article about investing | 💪 YOU (your money) |
-| Client wants a proposal | 👑 BUSINESS |
+| Client wants a proposal | 👑 YOUR GROWTH |
 
 **Quick exercise:** Think of 3 things on your mind right now. Put each in a bucket. Done? You just learned the One Mind organization system.
 
@@ -56,8 +56,8 @@ Open your vault in Obsidian (or any text editor). You'll see four folders:
 ```
 00-24 SO (Sovereign Operations)/    ← 🧠 TECH & AI
 25-49 HP (Holistic Performance)/    ← 💪 YOU
-50-74 LE (Legacy Evolution)/        ← 🏡 FAMILY
-75-99 GE (Generational Entrepreneurship)/ ← 👑 BUSINESS
+50-74 LE (Legacy Evolution)/        ← 🏡 YOUR WORLD
+75-99 GE (Generational Expansion)/ ← 👑 YOUR GROWTH
 ```
 
 **Create 3 notes.** Pick the templates that match what's on your mind:
@@ -115,7 +115,7 @@ Call completed and decision made on entity type.
 This week (Friday)
 ```
 
-Save it in `75-99 GE/` (the BUSINESS bucket).
+Save it in `75-99 GE/` (the GROWTH domain).
 
 ### "I want to remember something" → Use the Note template
 
@@ -136,7 +136,7 @@ share what works. 15-20 minutes. Casual, unscripted.
 Could start with just audio, add video later.
 ```
 
-Save it in `75-99 GE/` (BUSINESS — it's a business idea).
+Save it in `75-99 GE/` (GROWTH — it's a career/venture idea).
 
 **Congratulations.** You just did the first two steps of CODEX: you **Captured** (got things out of your head) and **Organized** (put them in the right bucket with the right type).
 
@@ -219,8 +219,8 @@ Your buckets will naturally split into specific areas:
 
 ```
 💪 YOU → Health, Finance, Identity
-👑 BUSINESS → Brand, Strategy, Products
-🏡 FAMILY → Home, Kids, Estate
+👑 YOUR GROWTH → Career, Brand, Strategy, Ventures
+🏡 YOUR WORLD → Relationships, Community, Home
 🧠 TECH → Agents, Tools, Automation
 ```
 
@@ -254,7 +254,7 @@ This is what makes One Mind an **operating system** instead of a notebook.
 
 ```
 FOUR BUCKETS:
-  🧠 Tech    💪 You    🏡 Family    👑 Business
+  🧠 Tech    💪 You    🏡 World    👑 Growth
 
 FIVE STEPS:
   Capture → Organize → Direct → Execute → × Multiply

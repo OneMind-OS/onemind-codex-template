@@ -22,8 +22,8 @@ This is a **One Mind Codex vault** — a structured knowledge base built with th
 |----------|----------|--------|
 | 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
-| 50–74 | **LE** — Legacy Evolution | Family, home, estate |
-| 75–99 | **GE** — Generational Entrepreneurship | Business, ventures, wealth |
+| 50–74 | **LE** — Legacy Evolution | Relationships, community, home |
+| 75–99 | **GE** — Generational Expansion | Career, ventures, impact, wealth |
 
 System files live in `_codex/`. The master documents are `ONEMIND-CODEX.md` and `CODEX-FRAMEWORK.md` at the vault root.
 

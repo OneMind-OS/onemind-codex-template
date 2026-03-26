@@ -30,8 +30,8 @@ This is a **One Mind Codex** — a structured knowledge base in plain Markdown, 
 ```text
 00-24  SO  — Sovereign Operations      Tech, AI, infrastructure, architecture
 25-49  HP  — Holistic Performance      Health, money, identity, skills, relationships
-50-74  LE  — Legacy Evolution          Family, home, children, estate
-75-99  GE  — Generational Entrepreneurship  Business, ventures, wealth
+50-74  LE  — Legacy Evolution          Relationships, community, home, environment
+75-99  GE  — Generational Expansion  Career, ventures, impact, wealth
 ```
 
 Each domain group contains **numbered domain folders**. Each domain folder has a `README.md` explaining what lives there.

@@ -122,21 +122,23 @@ ONE MIND                          ← Philosophy / Brand
 
 | | |
 |---|---|
-| **What it is** | Everything about your FAMILY and LEGACY — marriage, children, parents, home, heritage, community. |
-| **What it's NOT** | Personal stuff (that's HP). Business stuff (that's GE). |
-| **Think of it as** | What you're building that outlasts you. If it gets inherited, it's LE. |
-| **Key domains** | 50 Home, 51 Marriage, 52 Children, 53 Parents, 54 Heritage, 56 Wealth (Estate) |
-| **Examples** | "Estate planning docs go in LE/56 Wealth." / "Kids' education plans are in LE/52 Children." |
+| **What it is** | Everything beyond yourself — relationships, community, home, environment, and the world you build around you. |
+| **What it's NOT** | Personal stuff (that's HP). Career/wealth stuff (that's GE). System stuff (that's SO). |
+| **Think of it as** | The world you're building around you. For some that's family. For others it's community, friendships, and creative legacy. |
+| **Who uses it** | Parent → marriage, children, estate. Single person → home, community, friendships. Everyone → relationships, environment. |
+| **Key domains** | 50 Home, 51 Marriage, 52 Children, 53 Parents, 54 Heritage, 56 Wealth (Estate), 58 Community |
+| **Examples** | "My community strategy is in LE/58 Community." / "Home projects go in LE/50 Home." |
 
-### GE — Generational Entrepreneurship (Domains 75–99)
+### GE — Generational Expansion (Domains 75–99)
 
 | | |
 |---|---|
-| **What it is** | Everything about your BUSINESS and WEALTH CREATION — ventures, brand, IP, partnerships, strategy. |
+| **What it is** | How you create value and expand your impact — career, ventures, brand, wealth, education, IP. |
 | **What it's NOT** | Personal finance (that's HP/30). Family estate (that's LE/56). |
-| **Think of it as** | Your business empire. Revenue, products, partnerships, intellectual property. |
+| **Think of it as** | Your growth engine. Whether you're climbing a career ladder, building a business, or creating art — this is where your value-creating work lives. |
+| **Who uses it** | Employee → career growth, salary, skills. Entrepreneur → ventures, brand, products. Creator → audience, IP, content. Everyone → professional development, income. |
 | **Key domains** | 75 Personal Brand, 76 Education, 77 IP & Platforms, 79 Technology, 81 Strategy, 84 Ventures |
-| **Examples** | "Course content goes in GE/76 Education." / "Partnership deals are in GE/83 Partnerships." |
+| **Examples** | "Career development goes in GE/28... no, GE/81 Strategy." / "Course content goes in GE/76 Education." |
 
 ---
 
@@ -201,10 +203,10 @@ One Mind          = The philosophy    ("You + AI = One Mind")
 One Mind OS       = The system        (philosophy + method + vault + tools)
 CODEX             = The method        (C.O.D.E.× = Capture, Organize, Direct, Execute, × Multiply)
 CODEX             = The vault         (your Markdown file system)
-SO                = Control plane     (agents, tools, infrastructure — domains 00-24)
-HP                = Personal          (health, mind, skills, money — domains 25-49)
-LE                = Family & Legacy   (marriage, children, heritage — domains 50-74)
-GE                = Business          (ventures, brand, IP, strategy — domains 75-99)
+SO                = Operating layer   (agents, tools, infrastructure — domains 00-24)
+HP                = Your self          (health, mind, skills, money — domains 25-49)
+LE                = Your world         (relationships, community, home — domains 50-74)
+GE                = Your growth        (career, ventures, brand, impact — domains 75-99)
 _codex/           = Intelligence      (templates, skills, conventions — public)
 _system/          = Operations        (scripts, configs, keys — private)
 ```
