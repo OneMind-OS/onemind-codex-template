@@ -61,7 +61,7 @@ Every other framework was designed for humans alone and tries to retrofit AI. CO
 - **STRUCTURE:** 3 life domains + SO operating layer, 100 sub-domains (progressive activation), 17 entity types
 - **INTELLIGENCE:** `_codex/` (skills, templates, profiles, pinned system context)
 - **EXECUTION:** AI agents running skills from portable markdown
-- **MEASUREMENT:** × Multiply step — metrics, reviews, intelligence scores (HPI, LEI, GEI, IOI), review cadences
+- **MEASUREMENT:** × Multiply step — metrics, reviews, intelligence scores (SOI, HPI, LEI, GEI), review cadences
 
 Nobody else has all five. GTD has method only. PARA has structure only. Letta has intelligence only.
 
