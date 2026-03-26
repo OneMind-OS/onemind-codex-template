@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui-01, type/index, status/active]
+tags: [domain/so-01, type/index, status/active]
 ai_summary: "Command domain — dashboards, daily operating views, navigation hubs, and master control surfaces"
 ---
 

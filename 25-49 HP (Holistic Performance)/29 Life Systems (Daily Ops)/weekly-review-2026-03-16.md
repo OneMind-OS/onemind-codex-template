@@ -47,9 +47,9 @@ Major infrastructure week. Finished restructuring the codex from the old PARA-ba
 2. Integrate Haven with shared family calendar
 3. Write first "Build Your Codex" workshop outline
 
-## Quadrant Check
+## Domain Check
 
 - **SO (Tech/AI)**: Strong — all agents deployed, codex migrated
 - **HP (Self)**: Good — fitness on track, need more capture discipline
-- **LE (Family)**: Steady — Sunday dinner was great, calendar integration needed
-- **GE (Business)**: Starting — Empire agent live, need content strategy for launch
+- **LE (Foundation)**: Steady — Sunday dinner was great, calendar integration needed
+- **GE (Endeavor)**: Starting — Empire agent live, need content strategy for launch

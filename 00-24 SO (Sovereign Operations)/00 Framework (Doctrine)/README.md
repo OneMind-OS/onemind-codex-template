@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui, folder/00, type/index]
+tags: [domain/so, folder/00, type/index]
 ai_summary: "Index for core One Mind doctrine — the framework, architecture, and principles"
 ---
 

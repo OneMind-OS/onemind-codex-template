@@ -16,13 +16,15 @@ ai_summary: "Operating instructions for AI agents working with this Codex vault"
 
 ## What This Is
 
-This is a **One Mind Codex vault** — a structured knowledge base built with the CODEX method (Capture → Organize → Direct → Execute → × Multiply). It uses plain Markdown files with YAML frontmatter, organized into three life domains and one operating layer:
+This is a **One Mind Codex vault** — a structured knowledge base built with the CODEX method (Capture → Organize → Direct → Execute → × Multiply). It uses plain Markdown files with YAML frontmatter, organized into three life domains and one operating layer.
 
-| ID Range | Quadrant | Domain |
+> **Important:** SO is NOT a life domain — it is the operating layer that RUNS the three domains (HP, LE, GE). Think macOS vs apps. See CLAUDE.md at the repository root for the full naming glossary and architecture decisions.
+
+| ID Range | Domain Group | What Lives Here |
 |----------|----------|--------|
-| 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
+| 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure (the operating layer) |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
-| 50–74 | **LE** — Legacy Evolution | Relationships, community, home |
+| 50–74 | **LE** — Legacy Evolution | Relationships, community, home, environment |
 | 75–99 | **GE** — Generational Endeavor | Career, ventures, impact, wealth |
 
 System files live in `_codex/`. The master documents are `ONEMIND-CODEX.md` and `CODEX-FRAMEWORK.md` at the vault root.

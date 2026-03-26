@@ -25,7 +25,7 @@ This is a **One Mind Codex** — a structured knowledge base in plain Markdown, 
 
 ---
 
-## How It's Organized — 4 Quadrants
+## How It's Organized — 3 Domains + 1 Operating Layer
 
 ```text
 00-24  SO  — Sovereign Operations      Tech, AI, infrastructure, architecture

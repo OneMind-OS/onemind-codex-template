@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui-08, type/index, status/active]
+tags: [domain/so-08, type/index, status/active]
 ai_summary: "Infrastructure domain — servers, APIs, NATS, databases, cloud services, and the technical grid"
 ---
 

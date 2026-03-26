@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui, folder/06, type/index]
+tags: [domain/so, folder/06, type/index]
 ai_summary: "Inbox — unsorted captures waiting to be processed and routed to the right domain"
 ---
 

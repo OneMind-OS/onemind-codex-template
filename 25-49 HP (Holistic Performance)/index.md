@@ -6,7 +6,7 @@ status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/hp, type/index, status/active]
-ai_summary: "Quadrant index for Holistic Performance — self, health, money, skills, relationships, daily life"
+ai_summary: "Domain index for Holistic Performance — self, health, money, skills, relationships, daily life"
 ---
 
 # HP — Holistic Performance (25–49)
@@ -15,7 +15,7 @@ ai_summary: "Quadrant index for Holistic Performance — self, health, money, sk
 
 ---
 
-## What This Quadrant Is
+## What This Domain Is
 
 **Holistic Performance** is your personal domain — everything that makes *you* function at your best. Your body, your mind, your money, your relationships, your daily systems. This is where you manage yourself.
 

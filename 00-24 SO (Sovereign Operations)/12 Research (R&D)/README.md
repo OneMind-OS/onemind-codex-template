@@ -4,7 +4,7 @@ type: index
 status: active
 created: 2026-03-19
 owner: zeus
-tags: [domain/ui, type/index, folder/12]
+tags: [domain/so, type/index, folder/12]
 ai_summary: "Research & development — evaluations, experiments, competitive analysis, emerging tech"
 ---
 

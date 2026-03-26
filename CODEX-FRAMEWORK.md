@@ -194,9 +194,9 @@ D — DIRECT:
 **Without Organize**, Direct has nowhere to put things and no types to work with.
 **Without Direct**, Organize creates a beautifully filed system that never takes action.
 
-### The Four Quadrants
+### The 3 Domains + 1 Operating Layer
 
-| ID Range | Quadrant | Domain |
+| ID Range | Domain Group | What Lives Here |
 |----------|----------|--------|
 | 00–24 | **SO** — Sovereign Operations | Technology, AI, infrastructure |
 | 25–49 | **HP** — Holistic Performance | Health, skills, personal growth |
@@ -513,7 +513,7 @@ CODEX ENTITY SYSTEM
 Every entity has **three coordinates** that tell you exactly where it lives and what it is:
 
 ```
-QUADRANT → DOMAIN → ENTITY TYPE
+DOMAIN GROUP → DOMAIN → ENTITY TYPE
 
 HP / 27-Body     / goal-run-marathon.md
 HP / 27-Body     / metric-weight.md
@@ -617,7 +617,7 @@ SUNDAY: The × Day (30 minutes)
 
 ```
 × — Read the last 4 weekly reviews → see patterns
-× — Quadrant health check → is any area of life starving?
+× — Domain health check → is any area of life starving?
 × — SOP/AOP audit → are procedures working or need refinement?
 × — Goal alignment → are daily actions serving quarterly goals?
 × — Capture: new goals, updated priorities, refined procedures

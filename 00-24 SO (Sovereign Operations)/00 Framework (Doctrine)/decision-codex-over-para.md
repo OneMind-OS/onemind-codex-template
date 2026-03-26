@@ -4,7 +4,7 @@ type: decision
 status: active
 created: 2025-12-15
 decided_by: zeus
-tags: [type/decision, domain/ui]
+tags: [type/decision, domain/so]
 ai_summary: "Chose CODEX method over PARA/GTD for life OS — AI-native, generational, tool-agnostic"
 ---
 

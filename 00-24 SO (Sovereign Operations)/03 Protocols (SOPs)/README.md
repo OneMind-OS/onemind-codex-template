@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui, folder/03, type/index]
+tags: [domain/so, folder/03, type/index]
 ai_summary: "Standard operating procedures — repeatable processes documented for humans and AI agents"
 ---
 
@@ -36,7 +36,7 @@ Use `_codex/templates/sop.md` for every file in this folder:
 ---
 title: "SOP: {Process Name}"
 type: sop
-tags: [type/sop, domain/ui]
+tags: [type/sop, domain/so]
 ai_summary: "SOP for {process} — runs {frequency}, takes ~{time}"
 ---
 ```

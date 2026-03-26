@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-13
 owner: zeus
-tags: [domain/ui, type/index, domain/development]
+tags: [domain/so, type/index, domain/development]
 ai_summary: "Code projects, development notes, testing strategies, and technical decisions"
 ---
 

@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-13
 owner: zeus
-tags: [domain/ui, type/index, domain/security]
+tags: [domain/so, type/index, domain/security]
 ai_summary: "Cybersecurity practices, access control, credentials management, and threat monitoring"
 ---
 

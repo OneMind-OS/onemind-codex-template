@@ -50,7 +50,7 @@ GTD gave us the capture habit. PARA gave us structure. CODE gave us a creative w
 Every document has YAML frontmatter with `ai_summary`, typed tags, and status fields. Agents don't need to read 10,000 words to understand your vault — they scan summaries, check types, and drill down only when needed.
 
 **2. Unified Life Model**
-Three life domains plus one operating layer cover your entire existence — not just work, not just projects. Your health, your family, your business, and your infrastructure all live in one system with one schema.
+Three life domains plus one operating layer cover your entire existence — not just work, not just projects. Your health, your foundation, your endeavor, and your infrastructure all live in one system with one schema.
 
 **3. Tool-Agnostic by Design**
 Plain Markdown files in folders. No proprietary database. No vendor lock-in. Move between Obsidian, VS Code, Logseq, or raw `vim` — the system doesn't care. Your operating system outlives any tool.
@@ -111,7 +111,7 @@ One Mind OS is NOT four equal boxes. It's **three life domains running on one op
 │          The operating layer that runs everything     │
 ├────────────────┬─────────────────┬───────────────────┤
 │  💪 HP (25–49) │  🏡 LE (50–74)  │  👑 GE (75–99)   │
-│  Your Self     │  Your Family     │  Your Business    │
+│  Your Self     │  Your Foundation │  Your Endeavor   │
 └────────────────┴─────────────────┴───────────────────┘
 ```
 

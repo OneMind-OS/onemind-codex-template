@@ -6,7 +6,7 @@ status: active
 created: 2026-01-01
 owner: zeus
 tags: [domain/so, type/index, status/active]
-ai_summary: "Quadrant index for Sovereign Operations — AI, tech, infrastructure, architecture, automation"
+ai_summary: "Domain index for Sovereign Operations — AI, tech, infrastructure, architecture, automation"
 ---
 
 # SO — Sovereign Operations (00–24)
@@ -15,7 +15,7 @@ ai_summary: "Quadrant index for Sovereign Operations — AI, tech, infrastructur
 
 ---
 
-## What This Quadrant Is
+## What This Domain Is
 
 **Sovereign Operations** is where you design, build, and operate your technological and AI infrastructure. If HP is your personal OS, SO is the operating system that runs your life machine — the agents, automations, tools, and platforms that extend your capability.
 

@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-13
 owner: zeus
-tags: [domain/ui, type/index, domain/automation]
+tags: [domain/so, type/index, domain/automation]
 ai_summary: "Automation workflows, n8n pipelines, scheduled tasks, and trigger-based operations"
 ---
 

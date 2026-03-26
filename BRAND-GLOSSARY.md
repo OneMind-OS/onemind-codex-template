@@ -96,7 +96,7 @@ ONE MIND                          ← Philosophy / Brand
 
 ---
 
-## The 4 Quadrants
+## The 3 Domains + 1 Operating Layer
 
 ### SO — Sovereign Operations (Domains 00–24)
 

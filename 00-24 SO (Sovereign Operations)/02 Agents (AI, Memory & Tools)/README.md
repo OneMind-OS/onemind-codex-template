@@ -5,7 +5,7 @@ type: index
 status: active
 created: 2026-01-01
 owner: zeus
-tags: [domain/ui, folder/02, type/index]
+tags: [domain/so, folder/02, type/index]
 ai_summary: "Index for AI agents, memory systems, and tool configs in this vault"
 ---
 
@@ -35,7 +35,7 @@ Each agent gets its own file following this pattern:
 ---
 title: "{Agent Name}"
 type: reference
-tags: [domain/ui, type/agent-config]
+tags: [domain/so, type/agent-config]
 ai_summary: "Config for {agent name} — role, tools, memory setup"
 ---
 

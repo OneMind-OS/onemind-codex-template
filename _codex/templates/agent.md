@@ -6,7 +6,7 @@ status: active
 created: "{YYYY-MM-DD}"
 owner: "{your-name}"
 model: "{model name — e.g., GPT-5.2, Claude Opus, etc.}"
-tags: [type/agent, "domain/ui"]
+tags: [type/agent, "domain/so"]
 related: []
 ai_summary: "Agent: {name} — {primary role in ≤10 words}"
 ---
@@ -30,7 +30,7 @@ ai_summary: "Agent: {name} — {primary role in ≤10 words}"
 - {Secondary responsibility}
 - {Tertiary responsibility}
 
-## Quadrant Focus
+## Domain Focus
 
 - **Primary**: {which domain does this agent primarily serve?}
 - **Secondary**: {any other domains}

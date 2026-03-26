@@ -35,7 +35,7 @@ modified: YYYY-MM-DD
 owner: {your-name}
 operator: human | agent | robot | drone | automated
 realm: digital | physical | hybrid
-tags: [domain/ui, type/goal, status/active]
+tags: [domain/so, type/goal, status/active]
 related: ["[[Other Note]]"]
 ai_summary: "One-line summary ≤20 words — what is this file?"
 ---
@@ -133,7 +133,7 @@ Tags use a `namespace/value` pattern:
 
 | Namespace | Examples | Purpose |
 |-----------|----------|---------|
-| `domain/` | `domain/ui`, `domain/hp`, `domain/ge` | Which domain |
+| `domain/` | `domain/so`, `domain/hp`, `domain/ge` | Which domain |
 | `type/` | `type/goal`, `type/task`, `type/sop`, `type/agent` | Entity type |
 | `status/` | `status/active`, `status/draft`, `status/archived` | Lifecycle state |
 | `operator/` | `operator/zeus`, `operator/legacy`, `operator/spartan` | Who owns execution |

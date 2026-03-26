@@ -4,7 +4,7 @@ type: sop
 status: active
 created: 2026-02-01
 owner: zeus
-tags: [type/sop, domain/ui, cadence/daily]
+tags: [type/sop, domain/so, cadence/daily]
 ai_summary: "Daily morning capture process — voice memos, inbox sweep, priority setting in under 10 minutes"
 ---
 

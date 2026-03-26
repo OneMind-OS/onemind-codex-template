@@ -4,7 +4,7 @@ type: note
 status: active
 created: 2026-01-20
 owner: zeus
-tags: [type/note, domain/ui, topic/agents]
+tags: [type/note, domain/so, topic/agents]
 ai_summary: "Multi-agent architecture with 9 specialized agents — Legacy as central intelligence, 8 domain agents"
 ---
 
@@ -16,7 +16,7 @@ One general-purpose AI agent can't do everything well. Instead, I run a **centra
 
 ## Agent Roster
 
-| Agent | Quadrant | Responsibility |
+| Agent | Domain | Responsibility |
 |-------|----------|---------------|
 | **Legacy** | All | Central intelligence, orchestration, communication |
 | **Spartan** | HP 27-28 | Body, fitness, physical mastery |

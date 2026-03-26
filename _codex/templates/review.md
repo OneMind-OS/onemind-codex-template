@@ -40,12 +40,12 @@ ai_summary: "Review for {period} — wins, lessons, priorities"
 - {What carries forward from this period?}
 - {What gets dropped or archived?}
 
-## Quadrant Check
+## Domain Check
 
 - **SO (Tech/AI)**: {brief status — what's happening in your tech/AI domain}
 - **HP (Self)**: {brief status — health, money, relationships, energy}
-- **LE (Family)**: {brief status — home, family, relationships}
-- **GE (Business)**: {brief status — work, ventures, brand, money}
+- **LE (Foundation)**: {brief status — home, community, relationships}
+- **GE (Endeavor)**: {brief status — career, ventures, brand, impact}
 
 ## Next Period Priorities
 

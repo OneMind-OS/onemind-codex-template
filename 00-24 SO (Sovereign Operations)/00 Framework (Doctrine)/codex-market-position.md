@@ -4,7 +4,7 @@ title: "CODEX Market Position & Framework Analysis"
 type: doctrine
 status: active
 created: 2026-03-21
-tags: [domain/ui, type/doctrine, status/active, priority/high]
+tags: [domain/so, type/doctrine, status/active, priority/high]
 ai_summary: "Why CODEX wins against GTD, PARA, CODE, and Second Brain in the AI era"
 ---
 
